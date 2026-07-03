@@ -1,3 +1,6 @@
+<img width="1011" height="576" alt="image" src="https://github.com/user-attachments/assets/38346c44-c35f-4a75-b081-cc5c76d0688e" />
+
+
 📊 E-commerce Business Intelligence Dashboard                                  
 📌 Overview
 
