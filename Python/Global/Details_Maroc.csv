@@ -1,0 +1,1501 @@
+Order ID,Total Sales,Profit,Quantity,Category,Sub-Category,PaymentMode
+M-10000,1096,658,7,Electronics,Electronic Games,Paiement à la livraison
+M-10001,5729,64,14,Furniture,Chairs,Paiement en plusieurs fois
+M-10002,2927,146,8,Furniture,Bookcases,Paiement en plusieurs fois
+M-10003,2847,712,8,Electronics,Printers,Carte bancaire
+M-10004,2617,1151,4,Electronics,Phones,Carte bancaire
+M-10005,2244,247,4,Clothing,Trousers,Carte bancaire
+M-10006,275,-275,4,Clothing,Saree,Paiement à la livraison
+M-10007,387,-213,5,Clothing,Saree,Virement bancaire
+M-10008,50,-44,2,Clothing,Hankerchief,Virement bancaire
+M-10009,135,-54,5,Clothing,Kurti,Paiement à la livraison
+M-10010,231,-190,9,Clothing,Hankerchief,Paiement à la livraison
+M-10011,2125,-234,6,Electronics,Printers,Paiement en plusieurs fois
+M-10012,3873,-891,6,Electronics,Phones,Carte bancaire
+M-10013,729,-492,5,Furniture,Bookcases,Virement bancaire
+M-10014,2188,1050,5,Furniture,Bookcases,Carte bancaire
+M-10015,6,-3,1,Clothing,Hankerchief,Virement bancaire
+M-10016,1854,433,5,Furniture,Bookcases,Carte bancaire
+M-10017,6,1,1,Clothing,Kurti,Virement bancaire
+M-10018,2093,721,5,Furniture,Chairs,Carte bancaire
+M-10019,7,-1,2,Clothing,Skirt,Virement bancaire
+M-10020,1622,-624,5,Furniture,Tables,Carte bancaire
+M-10021,1622,95,5,Electronics,Printers,Carte bancaire
+M-10022,373,254,6,Electronics,Printers,Virement bancaire
+M-10023,82,-33,4,Clothing,Kurti,Paiement à la livraison
+M-10024,8,2,2,Clothing,Skirt,Virement bancaire
+M-10025,1954,782,3,Electronics,Phones,Carte bancaire
+M-10026,1543,370,8,Electronics,Printers,Carte bancaire
+M-10027,1506,-266,6,Electronics,Printers,Carte bancaire
+M-10028,1829,-56,6,Furniture,Tables,Carte bancaire
+M-10029,9,-1,3,Clothing,Skirt,Virement bancaire
+M-10030,1461,202,5,Furniture,Tables,Paiement en plusieurs fois
+M-10031,391,113,8,Clothing,Stole,Paiement à la livraison
+M-10032,1824,1303,8,Electronics,Phones,Carte bancaire
+M-10033,16,-15,4,Clothing,Hankerchief,Virement bancaire
+M-10034,1745,122,2,Furniture,Tables,Carte bancaire
+M-10035,663,-212,5,Electronics,Printers,Virement bancaire
+M-10036,10,-1,1,Clothing,Leggings,Virement bancaire
+M-10037,1630,802,5,Furniture,Tables,Paiement en plusieurs fois
+M-10038,12,0,2,Clothing,Hankerchief,Virement bancaire
+M-10039,12,-7,2,Clothing,Leggings,Virement bancaire
+M-10040,1709,564,3,Clothing,Trousers,Carte bancaire
+M-10041,12,3,1,Clothing,Stole,Virement bancaire
+M-10042,1625,-77,3,Electronics,Phones,Paiement en plusieurs fois
+M-10043,13,5,2,Clothing,Hankerchief,Virement bancaire
+M-10044,1361,980,3,Furniture,Tables,Paiement à la livraison
+M-10045,1622,-448,3,Electronics,Phones,Paiement en plusieurs fois
+M-10046,1547,340,6,Electronics,Accessories,Paiement en plusieurs fois
+M-10047,1657,460,4,Furniture,Chairs,Carte bancaire
+M-10048,1603,0,9,Clothing,Saree,Carte bancaire
+M-10049,1549,-439,4,Electronics,Phones,Carte bancaire
+M-10050,1183,106,4,Electronics,Printers,Paiement en plusieurs fois
+M-10051,74,-123,8,Clothing,Skirt,Virement bancaire
+M-10052,1499,239,13,Clothing,Saree,Carte bancaire
+M-10053,1120,199,6,Clothing,Saree,Paiement en plusieurs fois
+M-10054,15,-2,1,Clothing,T-shirt,Carte de débit
+M-10055,1487,624,3,Clothing,Trousers,Carte bancaire
+M-10056,1118,206,2,Furniture,Tables,Carte bancaire
+M-10057,11,-5,2,Clothing,Hankerchief,Paiement à la livraison
+M-10058,15,4,1,Clothing,Hankerchief,Carte de débit
+M-10059,1364,1864,5,Furniture,Tables,Carte bancaire
+M-10060,1337,147,7,Electronics,Printers,Carte bancaire
+M-10061,15,2,1,Clothing,Leggings,Carte de débit
+M-10062,322,-193,5,Electronics,Printers,Virement bancaire
+M-10063,1316,527,7,Electronics,Electronic Games,Carte bancaire
+M-10064,1314,342,3,Furniture,Bookcases,Carte bancaire
+M-10065,17,7,3,Clothing,Hankerchief,Carte de débit
+M-10066,17,2,2,Clothing,Skirt,Carte de débit
+M-10067,17,-12,5,Clothing,Skirt,Carte de débit
+M-10068,1308,536,3,Furniture,Bookcases,Carte bancaire
+M-10069,1076,-38,4,Electronics,Printers,Carte bancaire
+M-10070,1301,573,5,Electronics,Accessories,Carte bancaire
+M-10071,1300,-16,8,Electronics,Printers,Carte bancaire
+M-10072,11,-2,4,Clothing,Hankerchief,Paiement à la livraison
+M-10073,1298,65,9,Electronics,Printers,Paiement en plusieurs fois
+M-10074,304,97,6,Clothing,Stole,Virement bancaire
+M-10075,1055,264,4,Electronics,Printers,Paiement en plusieurs fois
+M-10076,17,-13,4,Clothing,Skirt,Carte de débit
+M-10077,147,73,3,Clothing,Stole,Paiement à la livraison
+M-10078,965,-68,3,Electronics,Printers,Paiement à la livraison
+M-10079,12,-2,3,Clothing,Hankerchief,Paiement à la livraison
+M-10080,14,-2,3,Clothing,Hankerchief,Virement bancaire
+M-10081,934,-916,7,Electronics,Electronic Games,Paiement à la livraison
+M-10082,929,-93,9,Clothing,Saree,Paiement à la livraison
+M-10083,18,3,2,Clothing,Hankerchief,Carte de débit
+M-10084,916,192,11,Electronics,Phones,Paiement à la livraison
+M-10085,76,-72,9,Clothing,Hankerchief,Paiement à la livraison
+M-10086,869,67,4,Furniture,Tables,Paiement à la livraison
+M-10087,112,24,3,Clothing,Kurti,Paiement à la livraison
+M-10088,39,16,6,Clothing,Skirt,Virement bancaire
+M-10089,857,-274,2,Furniture,Tables,Paiement à la livraison
+M-10090,828,230,2,Furniture,Chairs,Paiement à la livraison
+M-10091,1279,-640,8,Electronics,Printers,Paiement en plusieurs fois
+M-10092,1250,486,7,Clothing,Saree,Paiement en plusieurs fois
+M-10093,823,-18,7,Furniture,Chairs,Paiement à la livraison
+M-10094,1157,-13,9,Furniture,Bookcases,Carte bancaire
+M-10095,126,-63,3,Electronics,Accessories,Virement bancaire
+M-10096,1145,-706,3,Electronics,Phones,Carte bancaire
+M-10097,774,170,3,Electronics,Accessories,Paiement à la livraison
+M-10098,24,-1,2,Clothing,Hankerchief,Paiement à la livraison
+M-10099,774,170,3,Electronics,Accessories,Paiement à la livraison
+M-10100,93,-1,2,Clothing,Hankerchief,Paiement à la livraison
+M-10101,765,-36,3,Electronics,Electronic Games,Paiement à la livraison
+M-10102,762,101,6,Electronics,Printers,Paiement à la livraison
+M-10103,761,266,9,Electronics,Electronic Games,Paiement à la livraison
+M-10104,96,-48,5,Clothing,Leggings,Virement bancaire
+M-10105,1137,-14,7,Electronics,Printers,Paiement en plusieurs fois
+M-10106,18,8,2,Clothing,Hankerchief,Carte de débit
+M-10107,749,-307,7,Furniture,Furnishings,Paiement à la livraison
+M-10108,1120,199,6,Clothing,Saree,Paiement en plusieurs fois
+M-10109,744,119,6,Electronics,Printers,Paiement à la livraison
+M-10110,14,0,4,Clothing,Hankerchief,Virement bancaire
+M-10111,19,8,2,Clothing,Hankerchief,Carte de débit
+M-10112,512,-225,5,Clothing,Saree,Paiement à la livraison
+M-10113,742,198,2,Furniture,Bookcases,Paiement à la livraison
+M-10114,44,-40,3,Clothing,Stole,Paiement à la livraison
+M-10115,1061,-36,8,Furniture,Bookcases,Paiement en plusieurs fois
+M-10116,19,-2,2,Clothing,Leggings,Carte de débit
+M-10117,17,0,1,Clothing,Hankerchief,Paiement à la livraison
+M-10118,741,267,5,Furniture,Bookcases,Paiement à la livraison
+M-10119,735,-235,6,Electronics,Printers,Paiement à la livraison
+M-10120,19,-1,1,Clothing,Shirt,Carte de débit
+M-10121,1021,-48,4,Electronics,Electronic Games,Paiement en plusieurs fois
+M-10122,556,-209,7,Clothing,Saree,Paiement à la livraison
+M-10123,63,-17,6,Clothing,Leggings,Paiement à la livraison
+M-10124,734,248,2,Furniture,Chairs,Paiement à la livraison
+M-10125,933,166,5,Clothing,Saree,Carte bancaire
+M-10126,20,-9,6,Clothing,Hankerchief,Carte de débit
+M-10127,877,395,2,Furniture,Bookcases,Carte bancaire
+M-10128,719,303,6,Furniture,Chairs,Paiement à la livraison
+M-10129,12,1,2,Clothing,Hankerchief,Paiement à la livraison
+M-10130,714,56,4,Clothing,Saree,Paiement à la livraison
+M-10131,50,-15,4,Clothing,Leggings,Paiement à la livraison
+M-10132,709,-100,5,Electronics,Phones,Paiement à la livraison
+M-10133,21,-12,3,Clothing,Hankerchief,Carte de débit
+M-10134,693,254,6,Clothing,Saree,Paiement à la livraison
+M-10135,24,1,4,Clothing,Hankerchief,Paiement à la livraison
+M-10136,24,1,2,Clothing,Hankerchief,Virement bancaire
+M-10137,24,1,2,Clothing,Hankerchief,Paiement à la livraison
+M-10138,21,10,1,Clothing,T-shirt,Carte de débit
+M-10139,681,259,4,Furniture,Chairs,Paiement à la livraison
+M-10140,674,-187,2,Furniture,Tables,Paiement à la livraison
+M-10141,671,-309,5,Electronics,Electronic Games,Paiement à la livraison
+M-10142,646,-213,3,Electronics,Electronic Games,Paiement à la livraison
+M-10143,40,15,1,Clothing,Kurti,Paiement à la livraison
+M-10144,24,-2,2,Clothing,T-shirt,Paiement à la livraison
+M-10145,644,167,2,Electronics,Printers,Paiement à la livraison
+M-10146,643,225,2,Electronics,Printers,Paiement à la livraison
+M-10147,632,-316,6,Clothing,Saree,Paiement à la livraison
+M-10148,632,316,6,Clothing,Saree,Paiement à la livraison
+M-10149,610,208,3,Electronics,Printers,Paiement à la livraison
+M-10150,78,-28,6,Clothing,Kurti,Virement bancaire
+M-10151,595,119,4,Furniture,Bookcases,Paiement à la livraison
+M-10152,595,292,3,Clothing,Saree,Paiement à la livraison
+M-10153,852,51,5,Furniture,Bookcases,Carte bancaire
+M-10154,594,89,3,Furniture,Bookcases,Paiement à la livraison
+M-10155,585,175,13,Clothing,T-shirt,Paiement à la livraison
+M-10156,582,262,5,Furniture,Furnishings,Paiement à la livraison
+M-10157,845,84,7,Clothing,Saree,Carte bancaire
+M-10158,829,19,4,Electronics,Printers,Carte bancaire
+M-10159,561,212,3,Clothing,Saree,Paiement à la livraison
+M-10160,771,-424,2,Electronics,Phones,Carte bancaire
+M-10161,765,8,6,Clothing,Saree,Paiement en plusieurs fois
+M-10162,31,2,2,Clothing,Hankerchief,Paiement à la livraison
+M-10163,557,-111,2,Electronics,Electronic Games,Paiement à la livraison
+M-10164,757,371,2,Electronics,Printers,Carte bancaire
+M-10165,545,-73,11,Electronics,Phones,Paiement à la livraison
+M-10166,1052,-82,3,Furniture,Bookcases,Virement bancaire
+M-10167,544,-152,3,Furniture,Bookcases,Paiement à la livraison
+M-10168,22,9,2,Clothing,Leggings,Carte de débit
+M-10169,757,371,2,Electronics,Printers,Carte bancaire
+M-10170,742,198,2,Furniture,Bookcases,Carte bancaire
+M-10171,537,107,3,Clothing,Saree,Paiement à la livraison
+M-10172,536,91,1,Clothing,Trousers,Paiement à la livraison
+M-10173,6,3,1,Clothing,Hankerchief,Paiement à la livraison
+M-10174,523,204,7,Clothing,Trousers,Paiement à la livraison
+M-10175,27,9,2,Clothing,T-shirt,Virement bancaire
+M-10176,516,392,8,Furniture,Chairs,Paiement à la livraison
+M-10177,504,116,3,Furniture,Bookcases,Paiement à la livraison
+M-10178,502,84,4,Electronics,Phones,Paiement à la livraison
+M-10179,734,213,6,Electronics,Electronic Games,Carte bancaire
+M-10180,42,12,2,Clothing,Kurti,Paiement à la livraison
+M-10181,29,11,4,Clothing,Skirt,Paiement à la livraison
+M-10182,240,12,6,Clothing,Kurti,Virement bancaire
+M-10183,496,-79,2,Clothing,Trousers,Paiement à la livraison
+M-10184,485,29,4,Electronics,Electronic Games,Paiement à la livraison
+M-10185,31,-11,3,Clothing,Skirt,Virement bancaire
+M-10186,676,151,3,Electronics,Printers,Carte bancaire
+M-10187,23,8,2,Clothing,Hankerchief,Carte de débit
+M-10188,13,3,2,Clothing,Hankerchief,Paiement à la livraison
+M-10189,180,0,8,Clothing,Stole,Paiement à la livraison
+M-10190,671,114,9,Electronics,Phones,Carte bancaire
+M-10191,22,11,3,Clothing,Kurti,Paiement à la livraison
+M-10192,668,-31,3,Electronics,Printers,Carte bancaire
+M-10193,145,0,3,Clothing,Saree,Virement bancaire
+M-10194,24,8,2,Clothing,Skirt,Carte de débit
+M-10195,476,0,3,Furniture,Chairs,Paiement à la livraison
+M-10196,24,11,5,Clothing,Hankerchief,Carte de débit
+M-10197,37,3,3,Clothing,Hankerchief,Paiement à la livraison
+M-10198,152,50,6,Clothing,Stole,Virement bancaire
+M-10199,32,11,2,Clothing,Leggings,Virement bancaire
+M-10200,52,11,5,Clothing,Leggings,Paiement à la livraison
+M-10201,24,11,3,Clothing,Hankerchief,Carte de débit
+M-10202,473,42,4,Furniture,Chairs,Paiement à la livraison
+M-10203,263,50,5,Clothing,Stole,Paiement à la livraison
+M-10204,61,11,3,Clothing,Kurti,Paiement à la livraison
+M-10205,469,-459,3,Electronics,Electronic Games,Paiement à la livraison
+M-10206,1272,547,2,Electronics,Phones,Paiement à la livraison
+M-10207,169,0,3,Electronics,Accessories,Paiement à la livraison
+M-10208,25,11,3,Clothing,Leggings,Carte de débit
+M-10209,457,-41,4,Clothing,Saree,Paiement à la livraison
+M-10210,455,77,8,Electronics,Accessories,Paiement à la livraison
+M-10211,25,2,2,Clothing,Hankerchief,Carte de débit
+M-10212,450,-90,3,Electronics,Printers,Paiement à la livraison
+M-10213,30,-35,1,Furniture,Chairs,Paiement à la livraison
+M-10214,659,-37,2,Furniture,Bookcases,Carte bancaire
+M-10215,448,148,2,Electronics,Printers,Paiement à la livraison
+M-10216,446,53,3,Electronics,Printers,Paiement à la livraison
+M-10217,98,-45,2,Furniture,Chairs,Virement bancaire
+M-10218,443,11,1,Clothing,Saree,Paiement à la livraison
+M-10219,427,-50,7,Electronics,Phones,Paiement à la livraison
+M-10220,656,-36,2,Furniture,Bookcases,Carte bancaire
+M-10221,424,161,2,Clothing,Saree,Paiement à la livraison
+M-10222,27,8,2,Clothing,T-shirt,Carte de débit
+M-10223,424,-272,5,Electronics,Phones,Paiement à la livraison
+M-10224,202,4,4,Clothing,Hankerchief,Paiement à la livraison
+M-10225,1275,357,2,Electronics,Phones,Virement bancaire
+M-10226,418,70,7,Electronics,Phones,Paiement à la livraison
+M-10227,417,49,3,Electronics,Electronic Games,Paiement à la livraison
+M-10228,199,48,4,Clothing,Stole,Virement bancaire
+M-10229,385,-77,11,Furniture,Furnishings,Virement bancaire
+M-10230,414,199,3,Electronics,Phones,Paiement à la livraison
+M-10231,97,-45,4,Clothing,Saree,Paiement à la livraison
+M-10232,648,50,6,Electronics,Electronic Games,Carte bancaire
+M-10233,27,-25,2,Clothing,Shirt,Carte de débit
+M-10234,27,12,1,Clothing,Stole,Carte de débit
+M-10235,27,1,1,Clothing,Stole,Virement bancaire
+M-10236,413,-314,9,Furniture,Chairs,Paiement à la livraison
+M-10237,53,2,4,Clothing,Hankerchief,Paiement à la livraison
+M-10238,29,8,5,Clothing,Hankerchief,Virement bancaire
+M-10239,30,13,1,Clothing,T-shirt,Virement bancaire
+M-10240,412,412,6,Clothing,Saree,Paiement à la livraison
+M-10241,646,-23,2,Electronics,Printers,Carte bancaire
+M-10242,30,-5,5,Clothing,Stole,Virement bancaire
+M-10243,618,27,4,Furniture,Bookcases,Carte bancaire
+M-10244,143,-124,5,Clothing,Saree,Virement bancaire
+M-10245,31,1,2,Clothing,Hankerchief,Virement bancaire
+M-10246,409,86,3,Clothing,Saree,Paiement à la livraison
+M-10247,406,126,2,Clothing,Saree,Paiement à la livraison
+M-10248,565,66,7,Clothing,Saree,Carte bancaire
+M-10249,85,2,6,Clothing,Stole,Paiement à la livraison
+M-10250,561,118,5,Furniture,Bookcases,Carte bancaire
+M-10251,503,-56,2,Clothing,Trousers,Paiement à la livraison
+M-10252,31,14,3,Clothing,Stole,Virement bancaire
+M-10253,398,111,8,Clothing,Hankerchief,Paiement à la livraison
+M-10254,388,93,2,Furniture,Bookcases,Paiement à la livraison
+M-10255,498,-116,4,Clothing,Saree,Virement bancaire
+M-10256,561,212,3,Clothing,Saree,Carte bancaire
+M-10257,61,3,4,Clothing,Hankerchief,Paiement à la livraison
+M-10258,34,-22,4,Clothing,T-shirt,Paiement à la livraison
+M-10259,32,6,3,Clothing,Shirt,Virement bancaire
+M-10260,623,-192,3,Furniture,Tables,Virement bancaire
+M-10261,520,151,3,Electronics,Phones,Carte bancaire
+M-10262,32,-16,6,Clothing,Saree,Virement bancaire
+M-10263,32,-5,5,Clothing,Hankerchief,Virement bancaire
+M-10264,510,234,6,Electronics,Electronic Games,Paiement en plusieurs fois
+M-10265,382,68,3,Clothing,Saree,Paiement à la livraison
+M-10266,33,13,3,Clothing,Leggings,Virement bancaire
+M-10267,381,-13,2,Clothing,Saree,Paiement à la livraison
+M-10268,490,88,2,Electronics,Accessories,Paiement en plusieurs fois
+M-10269,381,144,2,Clothing,Saree,Paiement à la livraison
+M-10270,487,143,4,Electronics,Phones,Paiement en plusieurs fois
+M-10271,366,84,3,Furniture,Bookcases,Paiement à la livraison
+M-10272,33,-29,3,Clothing,Shirt,Virement bancaire
+M-10273,365,107,3,Electronics,Phones,Paiement à la livraison
+M-10274,207,-100,2,Clothing,Saree,Virement bancaire
+M-10275,359,-338,5,Furniture,Bookcases,Paiement à la livraison
+M-10276,351,-47,8,Electronics,Phones,Paiement à la livraison
+M-10277,485,199,4,Clothing,Saree,Paiement en plusieurs fois
+M-10278,37,-23,4,Clothing,Shirt,Virement bancaire
+M-10279,34,10,2,Clothing,T-shirt,Carte de débit
+M-10280,346,108,3,Furniture,Chairs,Paiement à la livraison
+M-10281,342,-103,4,Electronics,Electronic Games,Paiement à la livraison
+M-10282,35,-8,2,Furniture,Furnishings,Carte de débit
+M-10283,121,41,4,Clothing,Stole,Virement bancaire
+M-10284,336,57,2,Electronics,Phones,Paiement à la livraison
+M-10285,336,71,3,Furniture,Bookcases,Paiement à la livraison
+M-10286,27,4,1,Clothing,Hankerchief,Paiement à la livraison
+M-10287,333,50,2,Electronics,Phones,Paiement à la livraison
+M-10288,36,7,3,Clothing,Leggings,Carte de débit
+M-10289,333,-15,3,Electronics,Phones,Paiement à la livraison
+M-10290,327,114,4,Clothing,Trousers,Paiement à la livraison
+M-10291,18,6,3,Clothing,Hankerchief,Virement bancaire
+M-10292,325,32,7,Clothing,T-shirt,Paiement à la livraison
+M-10293,482,-6,7,Electronics,Electronic Games,Paiement en plusieurs fois
+M-10294,465,-33,4,Electronics,Phones,Paiement en plusieurs fois
+M-10295,40,-12,3,Clothing,Shirt,Paiement à la livraison
+M-10296,107,36,6,Clothing,Stole,Paiement à la livraison
+M-10297,312,-312,7,Furniture,Chairs,Paiement à la livraison
+M-10298,451,25,3,Electronics,Phones,Paiement en plusieurs fois
+M-10299,312,62,1,Electronics,Electronic Games,Paiement à la livraison
+M-10300,311,72,2,Furniture,Bookcases,Paiement à la livraison
+M-10301,11,5,2,Clothing,Hankerchief,Virement bancaire
+M-10302,37,-5,3,Clothing,T-shirt,Carte de débit
+M-10303,444,-200,4,Electronics,Phones,Paiement en plusieurs fois
+M-10304,434,26,11,Clothing,Shirt,Carte bancaire
+M-10305,299,0,6,Clothing,Stole,Paiement à la livraison
+M-10306,37,17,3,Clothing,Hankerchief,Carte de débit
+M-10307,299,113,2,Furniture,Bookcases,Paiement à la livraison
+M-10308,298,74,2,Furniture,Bookcases,Paiement à la livraison
+M-10309,94,7,7,Clothing,Leggings,Virement bancaire
+M-10310,296,225,11,Clothing,Saree,Paiement à la livraison
+M-10311,37,17,3,Clothing,Hankerchief,Carte de débit
+M-10312,291,93,2,Electronics,Printers,Paiement à la livraison
+M-10313,327,-39,1,Electronics,Phones,Paiement à la livraison
+M-10314,291,119,11,Clothing,Saree,Paiement à la livraison
+M-10315,287,-66,6,Clothing,Kurti,Paiement à la livraison
+M-10316,42,15,1,Electronics,Accessories,Virement bancaire
+M-10317,429,61,3,Electronics,Electronic Games,Carte bancaire
+M-10318,285,128,2,Electronics,Printers,Paiement à la livraison
+M-10319,277,3,1,Electronics,Electronic Games,Paiement à la livraison
+M-10320,274,-7,4,Electronics,Phones,Paiement à la livraison
+M-10321,273,-87,4,Electronics,Phones,Paiement à la livraison
+M-10322,269,91,1,Electronics,Electronic Games,Paiement à la livraison
+M-10323,11,5,1,Clothing,Skirt,Paiement à la livraison
+M-10324,39,2,2,Clothing,Saree,Carte de débit
+M-10325,264,-26,3,Clothing,Trousers,Paiement à la livraison
+M-10326,40,16,3,Clothing,Hankerchief,Carte de débit
+M-10327,41,19,2,Clothing,T-shirt,Carte de débit
+M-10328,253,-63,2,Clothing,Saree,Virement bancaire
+M-10329,406,97,7,Furniture,Chairs,Carte bancaire
+M-10330,32,7,3,Clothing,Hankerchief,Paiement à la livraison
+M-10331,260,68,2,Electronics,Printers,Paiement à la livraison
+M-10332,41,19,5,Clothing,Hankerchief,Carte de débit
+M-10333,401,13,6,Furniture,Chairs,Carte bancaire
+M-10334,382,30,3,Clothing,Saree,Carte bancaire
+M-10335,867,251,5,Electronics,Phones,Paiement à la livraison
+M-10336,43,0,3,Clothing,Saree,Carte de débit
+M-10337,43,-43,7,Clothing,Stole,Carte de débit
+M-10338,74,29,3,Clothing,Stole,Paiement à la livraison
+M-10339,44,-26,3,Clothing,Hankerchief,Carte de débit
+M-10340,259,-55,2,Furniture,Chairs,Paiement à la livraison
+M-10341,257,23,5,Clothing,Hankerchief,Paiement à la livraison
+M-10342,76,27,5,Clothing,Stole,Paiement à la livraison
+M-10343,44,-32,3,Clothing,Stole,Carte de débit
+M-10344,257,3,2,Clothing,Saree,Paiement à la livraison
+M-10345,255,76,9,Clothing,Hankerchief,Paiement à la livraison
+M-10346,44,14,3,Clothing,Hankerchief,Carte de débit
+M-10347,45,-2,4,Clothing,Shirt,Paiement à la livraison
+M-10348,44,-3,1,Clothing,Saree,Carte de débit
+M-10349,382,119,2,Clothing,Saree,Carte bancaire
+M-10350,250,100,3,Clothing,Trousers,Paiement à la livraison
+M-10351,45,-15,2,Furniture,Chairs,Paiement à la livraison
+M-10352,246,61,2,Furniture,Bookcases,Paiement à la livraison
+M-10353,50,25,5,Clothing,Stole,Paiement à la livraison
+M-10354,246,98,5,Clothing,Hankerchief,Paiement à la livraison
+M-10355,44,99,3,Clothing,Kurti,Carte de débit
+M-10356,245,-78,3,Clothing,Saree,Paiement à la livraison
+M-10357,245,30,2,Clothing,Saree,Paiement à la livraison
+M-10358,376,0,7,Clothing,Stole,Carte bancaire
+M-10359,45,1,3,Clothing,T-shirt,Carte de débit
+M-10360,45,-28,2,Clothing,Stole,Carte de débit
+M-10361,244,-122,5,Furniture,Furnishings,Paiement à la livraison
+M-10362,244,83,2,Furniture,Bookcases,Paiement à la livraison
+M-10363,10,4,1,Clothing,Kurti,Virement bancaire
+M-10364,375,180,3,Furniture,Bookcases,Carte bancaire
+M-10365,46,14,5,Clothing,Skirt,Carte de débit
+M-10366,49,-31,2,Clothing,Stole,Virement bancaire
+M-10367,47,-20,2,Clothing,Kurti,Carte de débit
+M-10368,355,-114,7,Clothing,Stole,Carte bancaire
+M-10369,32,8,5,Clothing,Hankerchief,Virement bancaire
+M-10370,243,-14,2,Furniture,Chairs,Paiement à la livraison
+M-10371,241,-77,4,Electronics,Electronic Games,Paiement à la livraison
+M-10372,47,15,5,Clothing,Saree,Carte de débit
+M-10373,50,-10,6,Clothing,Skirt,Carte de débit
+M-10374,15,6,2,Clothing,Hankerchief,Paiement à la livraison
+M-10375,148,24,3,Clothing,Stole,Paiement à la livraison
+M-10376,299,-28,3,Electronics,Electronic Games,Virement bancaire
+M-10377,68,-30,1,Electronics,Phones,Virement bancaire
+M-10378,52,18,5,Clothing,Leggings,Carte de débit
+M-10379,239,-162,5,Furniture,Chairs,Paiement à la livraison
+M-10380,27,6,3,Clothing,Skirt,Paiement à la livraison
+M-10381,238,20,2,Clothing,Saree,Paiement à la livraison
+M-10382,48,16,3,Clothing,Shirt,Paiement à la livraison
+M-10383,66,22,3,Clothing,Stole,Virement bancaire
+M-10384,53,24,1,Clothing,Hankerchief,Carte de débit
+M-10385,233,-10,5,Electronics,Electronic Games,Paiement à la livraison
+M-10386,53,-2,3,Clothing,Saree,Carte de débit
+M-10387,54,8,4,Clothing,T-shirt,Carte de débit
+M-10388,352,-345,5,Clothing,Saree,Carte bancaire
+M-10389,349,0,7,Clothing,Stole,Carte bancaire
+M-10390,341,-85,6,Clothing,Trousers,Carte bancaire
+M-10391,54,12,3,Clothing,Saree,Carte de débit
+M-10392,57,7,2,Clothing,Shirt,Virement bancaire
+M-10393,340,20,7,Clothing,Shirt,Carte bancaire
+M-10394,227,48,5,Clothing,Stole,Paiement à la livraison
+M-10395,330,81,1,Furniture,Bookcases,Carte bancaire
+M-10396,216,-38,6,Furniture,Furnishings,Virement bancaire
+M-10397,224,-143,3,Furniture,Chairs,Paiement à la livraison
+M-10398,55,-33,2,Furniture,Chairs,Carte de débit
+M-10399,49,21,1,Clothing,Stole,Virement bancaire
+M-10400,224,87,3,Clothing,Trousers,Paiement à la livraison
+M-10401,223,27,2,Furniture,Bookcases,Paiement à la livraison
+M-10402,324,39,8,Electronics,Accessories,Carte bancaire
+M-10403,56,18,2,Clothing,Hankerchief,Carte de débit
+M-10404,223,62,7,Clothing,Shirt,Paiement à la livraison
+M-10405,10,2,2,Clothing,Skirt,Paiement à la livraison
+M-10406,57,6,5,Clothing,Leggings,Carte de débit
+M-10407,322,-113,4,Clothing,Saree,Carte bancaire
+M-10408,219,4,2,Clothing,Saree,Paiement à la livraison
+M-10409,103,21,7,Clothing,Stole,Virement bancaire
+M-10410,47,-27,4,Clothing,Saree,Paiement à la livraison
+M-10411,219,0,1,Clothing,Saree,Paiement à la livraison
+M-10412,57,-48,6,Clothing,Leggings,Carte de débit
+M-10413,319,102,6,Electronics,Accessories,Carte bancaire
+M-10414,315,-8,3,Furniture,Chairs,Carte bancaire
+M-10415,314,-41,3,Electronics,Electronic Games,Carte bancaire
+M-10416,311,40,1,Electronics,Electronic Games,Paiement en plusieurs fois
+M-10417,307,74,3,Electronics,Accessories,Paiement en plusieurs fois
+M-10418,294,109,7,Electronics,Accessories,Paiement en plusieurs fois
+M-10419,216,-83,3,Electronics,Electronic Games,Paiement à la livraison
+M-10420,58,-42,2,Furniture,Chairs,Carte de débit
+M-10421,48,20,4,Clothing,Stole,Virement bancaire
+M-10422,54,14,3,Clothing,T-shirt,Virement bancaire
+M-10423,216,50,4,Clothing,Stole,Paiement à la livraison
+M-10424,215,-30,2,Clothing,Saree,Paiement à la livraison
+M-10425,43,8,3,Clothing,Leggings,Paiement à la livraison
+M-10426,136,-33,5,Clothing,Saree,Paiement à la livraison
+M-10427,59,-30,3,Clothing,Leggings,Carte de débit
+M-10428,213,4,14,Clothing,Shirt,Paiement à la livraison
+M-10429,59,21,2,Clothing,Stole,Carte de débit
+M-10430,55,3,3,Clothing,T-shirt,Paiement à la livraison
+M-10431,294,62,9,Clothing,T-shirt,Paiement en plusieurs fois
+M-10432,210,62,2,Electronics,Phones,Paiement à la livraison
+M-10433,59,24,6,Clothing,Kurti,Carte de débit
+M-10434,396,-31,9,Clothing,Saree,Paiement à la livraison
+M-10435,284,45,2,Furniture,Bookcases,Paiement en plusieurs fois
+M-10436,276,52,5,Clothing,Saree,Paiement en plusieurs fois
+M-10437,23,2,2,Clothing,Skirt,Virement bancaire
+M-10438,209,-63,4,Electronics,Electronic Games,Paiement à la livraison
+M-10439,50,-28,5,Furniture,Furnishings,Paiement à la livraison
+M-10440,57,27,2,Clothing,Shirt,Paiement à la livraison
+M-10441,276,-21,2,Electronics,Phones,Paiement en plusieurs fois
+M-10442,268,6,2,Furniture,Bookcases,Virement bancaire
+M-10443,269,111,3,Clothing,Trousers,Paiement en plusieurs fois
+M-10444,209,2,1,Clothing,Saree,Paiement à la livraison
+M-10445,60,-12,4,Clothing,Hankerchief,Carte de débit
+M-10446,269,-86,2,Electronics,Electronic Games,Paiement en plusieurs fois
+M-10447,208,-25,2,Clothing,Saree,Paiement à la livraison
+M-10448,27,2,2,Clothing,Leggings,Virement bancaire
+M-10449,206,-206,3,Clothing,Saree,Paiement à la livraison
+M-10450,61,8,4,Clothing,Hankerchief,Carte de débit
+M-10451,212,-24,2,Furniture,Chairs,Paiement à la livraison
+M-10452,262,64,6,Clothing,Saree,Paiement en plusieurs fois
+M-10453,204,276,3,Furniture,Bookcases,Paiement à la livraison
+M-10454,59,-46,7,Clothing,T-shirt,Virement bancaire
+M-10455,199,-18,2,Clothing,Saree,Paiement à la livraison
+M-10456,59,6,1,Electronics,Accessories,Virement bancaire
+M-10457,45,9,3,Clothing,Leggings,Virement bancaire
+M-10458,211,19,8,Clothing,Stole,Paiement à la livraison
+M-10459,65,-16,2,Electronics,Phones,Carte de débit
+M-10460,25,0,4,Clothing,Skirt,Virement bancaire
+M-10461,196,-7,5,Electronics,Phones,Paiement à la livraison
+M-10462,261,13,6,Clothing,Shirt,Carte bancaire
+M-10463,195,-117,5,Electronics,Phones,Paiement à la livraison
+M-10464,192,-146,3,Clothing,Saree,Paiement à la livraison
+M-10465,189,87,7,Clothing,Stole,Paiement à la livraison
+M-10466,32,2,2,Clothing,Kurti,Virement bancaire
+M-10467,188,13,7,Clothing,Shirt,Paiement à la livraison
+M-10468,73,-25,3,Clothing,Saree,Paiement à la livraison
+M-10469,259,47,5,Clothing,Hankerchief,Carte bancaire
+M-10470,187,-15,3,Clothing,Trousers,Paiement à la livraison
+M-10471,26,11,2,Clothing,Hankerchief,Virement bancaire
+M-10472,185,-26,6,Furniture,Chairs,Paiement à la livraison
+M-10473,248,8,2,Clothing,Saree,Carte bancaire
+M-10474,67,9,4,Clothing,Leggings,Carte de débit
+M-10475,248,-70,3,Furniture,Chairs,Carte bancaire
+M-10476,246,61,2,Furniture,Bookcases,Carte bancaire
+M-10477,179,-25,5,Clothing,Kurti,Paiement à la livraison
+M-10478,176,-28,5,Furniture,Furnishings,Paiement à la livraison
+M-10479,176,-13,5,Furniture,Furnishings,Paiement à la livraison
+M-10480,68,-62,2,Clothing,Trousers,Carte de débit
+M-10481,176,37,6,Electronics,Accessories,Paiement à la livraison
+M-10482,88,11,7,Clothing,Hankerchief,Virement bancaire
+M-10483,68,20,5,Clothing,Hankerchief,Carte de débit
+M-10484,231,99,2,Electronics,Electronic Games,Carte bancaire
+M-10485,62,8,2,Clothing,T-shirt,Virement bancaire
+M-10486,175,77,3,Clothing,Saree,Paiement à la livraison
+M-10487,71,4,5,Clothing,Leggings,Carte de débit
+M-10488,174,-70,3,Electronics,Accessories,Paiement à la livraison
+M-10489,173,69,3,Furniture,Chairs,Paiement à la livraison
+M-10490,171,2,2,Electronics,Electronic Games,Paiement à la livraison
+M-10491,268,-25,3,Clothing,Saree,Paiement à la livraison
+M-10492,71,32,3,Clothing,Saree,Carte de débit
+M-10493,29,10,4,Clothing,Hankerchief,Virement bancaire
+M-10494,65,17,2,Clothing,T-shirt,Virement bancaire
+M-10495,72,-46,7,Clothing,Kurti,Carte de débit
+M-10496,168,-51,2,Furniture,Bookcases,Paiement à la livraison
+M-10497,165,30,3,Clothing,Stole,Paiement à la livraison
+M-10498,74,-59,2,Electronics,Accessories,Carte de débit
+M-10499,89,17,2,Clothing,Stole,Virement bancaire
+M-10500,228,63,3,Electronics,Electronic Games,Carte bancaire
+M-10501,119,-24,4,Furniture,Furnishings,Paiement à la livraison
+M-10502,75,-25,3,Clothing,Stole,Virement bancaire
+M-10503,67,20,4,Clothing,T-shirt,Virement bancaire
+M-10504,7,0,1,Clothing,Leggings,Paiement à la livraison
+M-10505,222,35,5,Clothing,Saree,Carte bancaire
+M-10506,219,-9,4,Clothing,Saree,Carte bancaire
+M-10507,42,-23,2,Furniture,Furnishings,Virement bancaire
+M-10508,216,-135,3,Furniture,Chairs,Carte bancaire
+M-10509,47,-21,2,Electronics,Electronic Games,Paiement à la livraison
+M-10510,68,-55,5,Electronics,Accessories,Virement bancaire
+M-10511,74,33,2,Clothing,Shirt,Carte de débit
+M-10512,165,46,3,Furniture,Furnishings,Paiement à la livraison
+M-10513,101,11,2,Clothing,Hankerchief,Virement bancaire
+M-10514,162,73,2,Electronics,Electronic Games,Paiement à la livraison
+M-10515,20,-22,1,Furniture,Furnishings,Virement bancaire
+M-10516,162,55,3,Clothing,Stole,Paiement à la livraison
+M-10517,229,-23,2,Clothing,Saree,Virement bancaire
+M-10518,27,0,2,Clothing,Leggings,Paiement à la livraison
+M-10519,685,7,7,Clothing,Trousers,Virement bancaire
+M-10520,75,2,5,Clothing,Leggings,Carte de débit
+M-10521,161,-229,8,Furniture,Furnishings,Paiement à la livraison
+M-10522,71,19,3,Clothing,T-shirt,Paiement à la livraison
+M-10523,211,-105,2,Clothing,Saree,Carte bancaire
+M-10524,79,5,6,Clothing,Hankerchief,Carte de débit
+M-10525,32,-22,5,Clothing,Saree,Virement bancaire
+M-10526,161,40,3,Clothing,Stole,Paiement à la livraison
+M-10527,159,4,1,Clothing,Saree,Paiement à la livraison
+M-10528,210,-50,4,Clothing,Hankerchief,Carte bancaire
+M-10529,79,39,2,Clothing,Shirt,Carte de débit
+M-10530,207,153,3,Clothing,Saree,Carte bancaire
+M-10531,36,0,4,Clothing,Kurti,Paiement à la livraison
+M-10532,206,12,1,Electronics,Printers,Carte bancaire
+M-10533,46,0,4,Clothing,Leggings,Paiement à la livraison
+M-10534,156,23,3,Clothing,Stole,Paiement à la livraison
+M-10535,154,54,3,Clothing,Hankerchief,Paiement à la livraison
+M-10536,36,15,3,Clothing,Stole,Virement bancaire
+M-10537,206,51,4,Clothing,Hankerchief,Carte bancaire
+M-10538,200,7,4,Electronics,Electronic Games,Carte bancaire
+M-10539,199,-1,1,Clothing,Saree,Carte bancaire
+M-10540,154,22,7,Clothing,T-shirt,Paiement à la livraison
+M-10541,152,23,3,Furniture,Furnishings,Paiement à la livraison
+M-10542,152,50,6,Clothing,Stole,Paiement à la livraison
+M-10543,122,-21,3,Furniture,Furnishings,Virement bancaire
+M-10544,149,48,6,Clothing,Stole,Paiement à la livraison
+M-10545,149,-87,4,Clothing,Saree,Paiement à la livraison
+M-10546,197,20,4,Clothing,Kurti,Carte bancaire
+M-10547,76,-54,3,Electronics,Electronic Games,Paiement à la livraison
+M-10548,221,-15,2,Electronics,Electronic Games,Paiement à la livraison
+M-10549,79,32,3,Clothing,Saree,Carte de débit
+M-10550,45,12,7,Clothing,Hankerchief,Virement bancaire
+M-10551,149,-1,1,Clothing,Saree,Paiement à la livraison
+M-10552,80,22,3,Clothing,Stole,Carte de débit
+M-10553,195,12,9,Clothing,Shirt,Carte bancaire
+M-10554,19,0,3,Clothing,Skirt,Virement bancaire
+M-10555,81,41,3,Clothing,Stole,Carte de débit
+M-10556,83,34,5,Clothing,Shirt,Carte de débit
+M-10557,149,17,4,Furniture,Furnishings,Paiement à la livraison
+M-10558,193,46,1,Electronics,Printers,Carte bancaire
+M-10559,85,24,10,Clothing,Hankerchief,Carte de débit
+M-10560,44,-17,5,Clothing,Saree,Virement bancaire
+M-10561,149,-40,2,Electronics,Phones,Paiement à la livraison
+M-10562,26,0,2,Clothing,Kurti,Paiement à la livraison
+M-10563,86,0,4,Clothing,T-shirt,Carte de débit
+M-10564,86,22,2,Clothing,Saree,Carte de débit
+M-10565,79,16,3,Clothing,T-shirt,Paiement à la livraison
+M-10566,193,-275,3,Electronics,Phones,Carte bancaire
+M-10567,148,0,3,Clothing,Saree,Paiement à la livraison
+M-10568,70,-14,2,Furniture,Furnishings,Virement bancaire
+M-10569,148,59,3,Clothing,Hankerchief,Paiement à la livraison
+M-10570,190,19,9,Furniture,Furnishings,Carte bancaire
+M-10571,52,14,2,Clothing,Stole,Paiement à la livraison
+M-10572,147,44,3,Clothing,Saree,Paiement à la livraison
+M-10573,190,68,8,Clothing,T-shirt,Carte bancaire
+M-10574,80,-56,4,Electronics,Electronic Games,Virement bancaire
+M-10575,147,48,3,Clothing,Saree,Paiement à la livraison
+M-10576,66,12,3,Clothing,Stole,Paiement à la livraison
+M-10577,86,8,2,Clothing,Saree,Carte de débit
+M-10578,88,19,2,Clothing,Shirt,Carte de débit
+M-10579,188,-193,2,Electronics,Electronic Games,Carte bancaire
+M-10580,89,29,2,Clothing,Stole,Virement bancaire
+M-10581,146,19,5,Clothing,Stole,Paiement à la livraison
+M-10582,143,32,1,Furniture,Bookcases,Paiement à la livraison
+M-10583,25,-1,4,Clothing,Kurti,Paiement à la livraison
+M-10584,30,12,3,Clothing,Skirt,Virement bancaire
+M-10585,140,-58,4,Furniture,Furnishings,Paiement à la livraison
+M-10586,83,-48,1,Furniture,Bookcases,Virement bancaire
+M-10587,140,6,5,Clothing,Saree,Paiement à la livraison
+M-10588,28,14,4,Clothing,Hankerchief,Paiement à la livraison
+M-10589,139,14,3,Clothing,Stole,Paiement à la livraison
+M-10590,30,14,3,Clothing,Hankerchief,Virement bancaire
+M-10591,89,36,3,Clothing,Shirt,Virement bancaire
+M-10592,187,30,4,Electronics,Accessories,Carte bancaire
+M-10593,139,21,3,Electronics,Accessories,Paiement à la livraison
+M-10594,437,-14,2,Clothing,Saree,Virement bancaire
+M-10595,138,-3,5,Clothing,Saree,Paiement à la livraison
+M-10596,85,13,2,Clothing,Shirt,Virement bancaire
+M-10597,83,12,3,Clothing,Stole,Virement bancaire
+M-10598,91,22,2,Clothing,Stole,Virement bancaire
+M-10599,137,5,5,Clothing,Shirt,Paiement à la livraison
+M-10600,33,-12,7,Clothing,Saree,Virement bancaire
+M-10601,134,-34,2,Furniture,Chairs,Paiement à la livraison
+M-10602,134,42,2,Furniture,Chairs,Paiement à la livraison
+M-10603,133,-56,2,Furniture,Chairs,Paiement à la livraison
+M-10604,93,-84,3,Clothing,Saree,Virement bancaire
+M-10605,86,-21,1,Electronics,Electronic Games,Virement bancaire
+M-10606,132,54,5,Clothing,Stole,Paiement à la livraison
+M-10607,132,-10,3,Clothing,Saree,Paiement à la livraison
+M-10608,132,-79,5,Furniture,Furnishings,Paiement à la livraison
+M-10609,93,-65,4,Clothing,Stole,Virement bancaire
+M-10610,95,5,2,Clothing,Stole,Virement bancaire
+M-10611,97,12,2,Clothing,Hankerchief,Virement bancaire
+M-10612,131,-154,8,Furniture,Furnishings,Paiement à la livraison
+M-10613,97,29,2,Clothing,Hankerchief,Virement bancaire
+M-10614,128,4,3,Clothing,Saree,Paiement à la livraison
+M-10615,186,241,9,Clothing,Shirt,Carte bancaire
+M-10616,128,47,4,Clothing,Hankerchief,Paiement à la livraison
+M-10617,185,48,4,Clothing,Stole,Carte bancaire
+M-10618,29,10,2,Clothing,Stole,Paiement à la livraison
+M-10619,127,29,3,Furniture,Furnishings,Paiement à la livraison
+M-10620,97,36,7,Clothing,Hankerchief,Virement bancaire
+M-10621,125,0,3,Electronics,Accessories,Paiement à la livraison
+M-10622,299,-8,2,Clothing,Saree,Paiement à la livraison
+M-10623,124,54,5,Clothing,T-shirt,Paiement à la livraison
+M-10624,90,17,3,Clothing,Shirt,Paiement à la livraison
+M-10625,122,11,4,Clothing,Hankerchief,Paiement à la livraison
+M-10626,122,-66,9,Electronics,Accessories,Paiement à la livraison
+M-10627,90,30,2,Furniture,Chairs,Virement bancaire
+M-10628,182,-11,3,Furniture,Bookcases,Carte bancaire
+M-10629,122,59,7,Furniture,Furnishings,Paiement à la livraison
+M-10630,121,19,4,Clothing,Stole,Paiement à la livraison
+M-10631,120,1,1,Furniture,Chairs,Paiement à la livraison
+M-10632,120,23,5,Clothing,Stole,Paiement à la livraison
+M-10633,34,-11,5,Clothing,T-shirt,Paiement à la livraison
+M-10634,117,17,6,Clothing,Kurti,Paiement à la livraison
+M-10635,38,9,2,Clothing,Stole,Paiement à la livraison
+M-10636,117,-6,3,Electronics,Phones,Paiement à la livraison
+M-10637,180,54,4,Clothing,T-shirt,Carte bancaire
+M-10638,99,-5,1,Clothing,Saree,Virement bancaire
+M-10639,172,-103,3,Furniture,Chairs,Paiement en plusieurs fois
+M-10640,116,16,4,Clothing,Stole,Paiement à la livraison
+M-10641,116,-4,1,Clothing,Saree,Paiement à la livraison
+M-10642,171,68,7,Clothing,Stole,Paiement en plusieurs fois
+M-10643,46,14,5,Clothing,Skirt,Paiement à la livraison
+M-10644,115,-39,3,Clothing,Trousers,Paiement à la livraison
+M-10645,100,7,2,Clothing,T-shirt,Virement bancaire
+M-10646,44,8,2,Clothing,Stole,Paiement à la livraison
+M-10647,139,14,3,Clothing,Kurti,Paiement à la livraison
+M-10648,171,-140,2,Furniture,Bookcases,Paiement en plusieurs fois
+M-10649,100,12,2,Clothing,T-shirt,Virement bancaire
+M-10650,115,25,6,Clothing,Stole,Paiement à la livraison
+M-10651,168,-9,3,Clothing,Saree,Paiement à la livraison
+M-10652,115,47,2,Electronics,Accessories,Paiement à la livraison
+M-10653,168,-111,2,Electronics,Phones,Paiement en plusieurs fois
+M-10654,31,-7,5,Clothing,Skirt,Virement bancaire
+M-10655,114,41,6,Furniture,Furnishings,Paiement à la livraison
+M-10656,111,9,4,Clothing,Stole,Paiement à la livraison
+M-10657,11,-8,2,Clothing,Skirt,Virement bancaire
+M-10658,110,35,1,Furniture,Furnishings,Paiement à la livraison
+M-10659,59,15,2,Clothing,T-shirt,Virement bancaire
+M-10660,166,27,2,Electronics,Accessories,Paiement en plusieurs fois
+M-10661,109,-6,6,Clothing,Saree,Paiement à la livraison
+M-10662,34,-6,4,Clothing,Leggings,Paiement à la livraison
+M-10663,109,40,1,Furniture,Furnishings,Paiement à la livraison
+M-10664,108,22,3,Electronics,Accessories,Paiement à la livraison
+M-10665,103,50,2,Furniture,Furnishings,Virement bancaire
+M-10666,10,-8,2,Clothing,Skirt,Paiement à la livraison
+M-10667,90,17,3,Clothing,Hankerchief,Paiement à la livraison
+M-10668,105,46,2,Clothing,Stole,Virement bancaire
+M-10669,105,20,2,Clothing,Stole,Carte de débit
+M-10670,22,-6,1,Furniture,Furnishings,Paiement à la livraison
+M-10671,105,-33,5,Clothing,Kurti,Paiement à la livraison
+M-10672,105,25,2,Clothing,Hankerchief,Paiement en plusieurs fois
+M-10673,25,-7,5,Clothing,Saree,Virement bancaire
+M-10674,104,2,2,Furniture,Furnishings,Paiement à la livraison
+M-10675,16,5,1,Clothing,Stole,Virement bancaire
+M-10676,64,-7,3,Clothing,Saree,Paiement à la livraison
+M-10677,38,-6,2,Furniture,Furnishings,Virement bancaire
+M-10678,83,12,2,Furniture,Chairs,Paiement à la livraison
+M-10679,103,36,2,Clothing,Hankerchief,Paiement à la livraison
+M-10680,37,-6,1,Clothing,Saree,Virement bancaire
+M-10681,105,33,6,Clothing,Saree,Paiement en plusieurs fois
+M-10682,78,-6,2,Furniture,Furnishings,Virement bancaire
+M-10683,102,-90,1,Clothing,Saree,Paiement à la livraison
+M-10684,102,11,6,Clothing,T-shirt,Paiement à la livraison
+M-10685,10,-8,1,Clothing,Kurti,Virement bancaire
+M-10686,101,18,9,Clothing,Skirt,Paiement à la livraison
+M-10687,42,-6,4,Clothing,Saree,Virement bancaire
+M-10688,56,18,2,Clothing,Hankerchief,Virement bancaire
+M-10689,95,5,2,Clothing,Stole,Paiement à la livraison
+M-10690,159,2,3,Furniture,Furnishings,Paiement en plusieurs fois
+M-10691,158,69,3,Clothing,Stole,Paiement en plusieurs fois
+M-10692,106,0,2,Electronics,Phones,Paiement en plusieurs fois
+M-10693,101,16,4,Clothing,T-shirt,Paiement à la livraison
+M-10694,107,37,3,Clothing,Shirt,Paiement à la livraison
+M-10695,156,36,5,Clothing,T-shirt,Paiement en plusieurs fois
+M-10696,108,-19,3,Electronics,Electronic Games,Virement bancaire
+M-10697,107,-54,4,Clothing,Stole,Paiement en plusieurs fois
+M-10698,100,-58,4,Clothing,Hankerchief,Paiement à la livraison
+M-10699,108,26,4,Clothing,Shirt,Virement bancaire
+M-10700,100,6,4,Clothing,Stole,Paiement à la livraison
+M-10701,100,-23,1,Electronics,Phones,Paiement à la livraison
+M-10702,43,17,2,Clothing,T-shirt,Virement bancaire
+M-10703,155,26,3,Clothing,Stole,Paiement en plusieurs fois
+M-10704,151,9,3,Clothing,Hankerchief,Paiement en plusieurs fois
+M-10705,151,29,5,Clothing,Hankerchief,Paiement en plusieurs fois
+M-10706,110,-68,4,Clothing,Saree,Paiement en plusieurs fois
+M-10707,98,9,2,Furniture,Furnishings,Paiement à la livraison
+M-10708,97,-62,2,Clothing,Trousers,Paiement à la livraison
+M-10709,111,35,5,Clothing,Shirt,Paiement à la livraison
+M-10710,45,17,1,Electronics,Accessories,Paiement à la livraison
+M-10711,112,15,2,Furniture,Chairs,Paiement à la livraison
+M-10712,110,20,5,Clothing,Stole,Carte de débit
+M-10713,98,-5,2,Clothing,Saree,Virement bancaire
+M-10714,110,12,7,Clothing,Stole,Carte de débit
+M-10715,95,11,4,Furniture,Furnishings,Paiement à la livraison
+M-10716,1228,14,3,Furniture,Chairs,Virement bancaire
+M-10717,29,0,3,Furniture,Furnishings,Paiement à la livraison
+M-10718,94,27,2,Clothing,T-shirt,Paiement à la livraison
+M-10719,115,25,1,Electronics,Accessories,Paiement à la livraison
+M-10720,149,15,3,Clothing,Saree,Paiement en plusieurs fois
+M-10721,148,23,4,Clothing,Kurti,Paiement en plusieurs fois
+M-10722,93,15,2,Electronics,Accessories,Paiement à la livraison
+M-10723,113,24,4,Clothing,Hankerchief,Carte de débit
+M-10724,48,2,3,Clothing,Stole,Paiement à la livraison
+M-10725,148,9,1,Electronics,Electronic Games,Virement bancaire
+M-10726,114,11,4,Clothing,T-shirt,Carte de débit
+M-10727,92,42,2,Clothing,Stole,Paiement à la livraison
+M-10728,117,14,3,Clothing,Shirt,Virement bancaire
+M-10729,21,-10,4,Clothing,Leggings,Paiement à la livraison
+M-10730,33,-10,6,Clothing,Leggings,Virement bancaire
+M-10731,114,8,3,Electronics,Accessories,Carte de débit
+M-10732,115,0,1,Electronics,Accessories,Carte de débit
+M-10733,90,29,5,Clothing,T-shirt,Paiement à la livraison
+M-10734,61,1,2,Furniture,Furnishings,Paiement à la livraison
+M-10735,119,1,1,Furniture,Chairs,Paiement à la livraison
+M-10736,117,36,2,Clothing,Trousers,Carte de débit
+M-10737,148,54,2,Furniture,Chairs,Virement bancaire
+M-10738,249,-5,4,Clothing,Saree,Paiement à la livraison
+M-10739,147,73,3,Clothing,Stole,Virement bancaire
+M-10740,118,35,7,Clothing,T-shirt,Paiement en plusieurs fois
+M-10741,119,56,7,Clothing,Saree,Paiement en plusieurs fois
+M-10742,90,27,2,Clothing,T-shirt,Paiement à la livraison
+M-10743,32,1,2,Clothing,Stole,Paiement à la livraison
+M-10744,89,-89,2,Furniture,Furnishings,Paiement à la livraison
+M-10745,146,66,1,Electronics,Phones,Virement bancaire
+M-10746,89,-37,4,Clothing,Shirt,Paiement à la livraison
+M-10747,88,11,3,Electronics,Accessories,Paiement à la livraison
+M-10748,121,41,4,Clothing,Stole,Paiement en plusieurs fois
+M-10749,88,20,2,Clothing,Saree,Paiement à la livraison
+M-10750,87,-83,5,Clothing,Kurti,Paiement à la livraison
+M-10751,87,4,2,Clothing,Shirt,Paiement à la livraison
+M-10752,122,15,3,Electronics,Accessories,Paiement en plusieurs fois
+M-10753,87,10,3,Clothing,Stole,Paiement à la livraison
+M-10754,53,8,3,Furniture,Furnishings,Virement bancaire
+M-10755,87,-32,9,Clothing,Skirt,Paiement à la livraison
+M-10756,86,-55,6,Clothing,Saree,Paiement à la livraison
+M-10757,125,22,3,Clothing,Stole,Paiement en plusieurs fois
+M-10758,128,-3,3,Clothing,Saree,Carte de débit
+M-10759,143,-124,5,Clothing,Saree,Virement bancaire
+M-10760,86,22,2,Clothing,Saree,Paiement à la livraison
+M-10761,86,9,3,Clothing,Saree,Paiement à la livraison
+M-10762,85,-9,4,Clothing,Saree,Paiement à la livraison
+M-10763,129,-75,5,Clothing,Shirt,Carte de débit
+M-10764,84,-42,2,Electronics,Accessories,Paiement à la livraison
+M-10765,83,-81,3,Furniture,Chairs,Paiement à la livraison
+M-10766,143,6,2,Electronics,Accessories,Virement bancaire
+M-10767,336,123,3,Electronics,Phones,Virement bancaire
+M-10768,323,122,5,Electronics,Phones,Virement bancaire
+M-10769,130,61,3,Clothing,Shirt,Carte de débit
+M-10770,152,-3,5,Clothing,Saree,Paiement à la livraison
+M-10771,25,10,1,Furniture,Furnishings,Virement bancaire
+M-10772,140,15,5,Clothing,Stole,Virement bancaire
+M-10773,45,0,2,Clothing,Stole,Virement bancaire
+M-10774,132,49,3,Clothing,Shirt,Paiement à la livraison
+M-10775,133,12,5,Clothing,Stole,Carte de débit
+M-10776,82,13,2,Clothing,Shirt,Paiement à la livraison
+M-10777,140,56,4,Clothing,Shirt,Virement bancaire
+M-10778,81,19,7,Clothing,Hankerchief,Paiement à la livraison
+M-10779,137,38,5,Clothing,Hankerchief,Carte de débit
+M-10780,137,-41,3,Electronics,Phones,Carte de débit
+M-10781,140,57,2,Clothing,Trousers,Carte de débit
+M-10782,139,30,3,Clothing,Shirt,Virement bancaire
+M-10783,138,11,5,Clothing,Stole,Virement bancaire
+M-10784,79,-124,9,Clothing,Skirt,Paiement à la livraison
+M-10785,136,41,3,Electronics,Accessories,Virement bancaire
+M-10786,145,16,3,Clothing,T-shirt,Carte de débit
+M-10787,44,20,2,Clothing,T-shirt,Virement bancaire
+M-10788,79,6,7,Clothing,Saree,Paiement à la livraison
+M-10789,79,36,4,Clothing,Shirt,Paiement à la livraison
+M-10790,134,-13,3,Electronics,Electronic Games,Virement bancaire
+M-10791,133,5,5,Clothing,Stole,Virement bancaire
+M-10792,47,20,7,Clothing,Hankerchief,Virement bancaire
+M-10793,133,-42,1,Electronics,Printers,Virement bancaire
+M-10794,78,27,3,Clothing,Stole,Paiement à la livraison
+M-10795,78,7,1,Furniture,Chairs,Paiement à la livraison
+M-10796,76,-92,8,Furniture,Furnishings,Paiement à la livraison
+M-10797,76,-50,1,Clothing,Saree,Paiement à la livraison
+M-10798,76,19,3,Clothing,Hankerchief,Paiement à la livraison
+M-10799,74,29,3,Clothing,Stole,Paiement à la livraison
+M-10800,74,-25,3,Clothing,Stole,Paiement à la livraison
+M-10801,146,-63,3,Electronics,Electronic Games,Carte de débit
+M-10802,73,-31,1,Furniture,Bookcases,Paiement à la livraison
+M-10803,80,22,3,Clothing,Stole,Virement bancaire
+M-10804,133,46,5,Clothing,Shirt,Paiement en plusieurs fois
+M-10805,146,7,2,Electronics,Phones,Carte de débit
+M-10806,130,-41,4,Clothing,Saree,Paiement en plusieurs fois
+M-10807,141,41,3,Clothing,Shirt,Virement bancaire
+M-10808,147,21,3,Furniture,Furnishings,Carte de débit
+M-10809,73,-7,1,Electronics,Phones,Paiement à la livraison
+M-10810,148,72,7,Clothing,T-shirt,Carte de débit
+M-10811,58,0,4,Clothing,Saree,Virement bancaire
+M-10812,21,-13,3,Clothing,Leggings,Virement bancaire
+M-10813,148,25,3,Clothing,Saree,Carte de débit
+M-10814,144,-7,4,Electronics,Electronic Games,Paiement à la livraison
+M-10815,145,-104,5,Furniture,Chairs,Virement bancaire
+M-10816,72,-49,1,Electronics,Phones,Paiement à la livraison
+M-10817,125,15,5,Clothing,Shirt,Paiement en plusieurs fois
+M-10818,149,15,3,Clothing,Saree,Carte de débit
+M-10819,72,16,2,Clothing,Shirt,Paiement à la livraison
+M-10820,71,0,8,Clothing,Skirt,Paiement à la livraison
+M-10821,71,-14,4,Furniture,Furnishings,Paiement à la livraison
+M-10822,154,-85,3,Furniture,Chairs,Paiement en plusieurs fois
+M-10823,191,13,8,Furniture,Furnishings,Paiement à la livraison
+M-10824,170,19,5,Clothing,T-shirt,Virement bancaire
+M-10825,47,-3,2,Clothing,Stole,Virement bancaire
+M-10826,122,-47,4,Clothing,Saree,Paiement en plusieurs fois
+M-10827,70,26,5,Clothing,Hankerchief,Paiement à la livraison
+M-10828,155,5,3,Clothing,Stole,Paiement en plusieurs fois
+M-10829,67,-86,9,Furniture,Furnishings,Paiement à la livraison
+M-10830,67,-42,3,Clothing,Stole,Paiement à la livraison
+M-10831,148,-101,2,Furniture,Bookcases,Virement bancaire
+M-10832,122,38,6,Clothing,T-shirt,Carte bancaire
+M-10833,16,-5,2,Clothing,Stole,Virement bancaire
+M-10834,121,-17,3,Furniture,Furnishings,Carte bancaire
+M-10835,42,-15,12,Clothing,Skirt,Virement bancaire
+M-10836,65,-4,6,Clothing,Hankerchief,Paiement à la livraison
+M-10837,119,-43,7,Clothing,Kurti,Carte bancaire
+M-10838,155,56,3,Furniture,Furnishings,Paiement en plusieurs fois
+M-10839,119,-5,8,Clothing,Saree,Carte bancaire
+M-10840,118,25,4,Clothing,Hankerchief,Carte bancaire
+M-10841,116,22,1,Electronics,Accessories,Carte bancaire
+M-10842,158,-29,10,Clothing,Hankerchief,Paiement en plusieurs fois
+M-10843,158,69,3,Clothing,Stole,Paiement en plusieurs fois
+M-10844,65,-52,3,Electronics,Accessories,Paiement à la livraison
+M-10845,160,-59,2,Clothing,Saree,Paiement en plusieurs fois
+M-10846,162,20,3,Furniture,Chairs,Paiement en plusieurs fois
+M-10847,63,1,4,Clothing,T-shirt,Paiement à la livraison
+M-10848,64,27,5,Clothing,Hankerchief,Virement bancaire
+M-10849,166,-113,4,Electronics,Accessories,Paiement en plusieurs fois
+M-10850,167,43,7,Clothing,T-shirt,Paiement en plusieurs fois
+M-10851,123,17,3,Furniture,Furnishings,Paiement à la livraison
+M-10852,63,14,2,Clothing,Shirt,Paiement à la livraison
+M-10853,891,0,5,Clothing,Saree,Paiement à la livraison
+M-10854,75,28,9,Clothing,Hankerchief,Virement bancaire
+M-10855,62,6,5,Clothing,Hankerchief,Paiement à la livraison
+M-10856,29,-18,7,Clothing,Skirt,Virement bancaire
+M-10857,168,18,6,Clothing,Stole,Carte de débit
+M-10858,70,24,3,Clothing,Stole,Virement bancaire
+M-10859,169,55,4,Clothing,Saree,Carte de débit
+M-10860,32,-8,2,Clothing,Stole,Paiement à la livraison
+M-10861,44,-8,3,Clothing,Stole,Virement bancaire
+M-10862,116,-56,5,Clothing,Stole,Carte bancaire
+M-10863,156,21,3,Furniture,Chairs,Paiement à la livraison
+M-10864,62,6,6,Clothing,Skirt,Paiement à la livraison
+M-10865,54,1,2,Clothing,Saree,Virement bancaire
+M-10866,111,11,9,Clothing,Hankerchief,Carte bancaire
+M-10867,158,-63,4,Furniture,Chairs,Virement bancaire
+M-10868,7,-3,2,Clothing,Skirt,Virement bancaire
+M-10869,61,28,2,Clothing,Hankerchief,Virement bancaire
+M-10870,61,-50,4,Clothing,Hankerchief,Paiement à la livraison
+M-10871,154,26,4,Electronics,Accessories,Paiement à la livraison
+M-10872,62,1,3,Clothing,Saree,Paiement à la livraison
+M-10873,169,38,3,Clothing,Saree,Carte de débit
+M-10874,61,18,2,Electronics,Accessories,Paiement à la livraison
+M-10875,61,-23,2,Clothing,Saree,Paiement à la livraison
+M-10876,171,14,9,Clothing,Shirt,Carte de débit
+M-10877,60,-49,8,Clothing,Hankerchief,Paiement à la livraison
+M-10878,25,-11,1,Clothing,Stole,Virement bancaire
+M-10879,163,26,4,Clothing,Shirt,Paiement à la livraison
+M-10880,173,86,1,Electronics,Printers,Carte de débit
+M-10881,257,-3,2,Furniture,Bookcases,Virement bancaire
+M-10882,108,37,2,Clothing,Stole,Carte bancaire
+M-10883,177,41,4,Clothing,Shirt,Carte de débit
+M-10884,106,15,7,Clothing,Hankerchief,Carte bancaire
+M-10885,41,-14,5,Clothing,Leggings,Virement bancaire
+M-10886,168,-10,3,Electronics,Accessories,Virement bancaire
+M-10887,60,21,4,Clothing,Stole,Paiement à la livraison
+M-10888,31,-11,4,Clothing,Stole,Paiement à la livraison
+M-10889,179,0,2,Clothing,Saree,Carte de débit
+M-10890,106,12,3,Clothing,Trousers,Carte bancaire
+M-10891,60,13,2,Clothing,T-shirt,Paiement à la livraison
+M-10892,180,5,3,Clothing,Trousers,Carte de débit
+M-10893,60,-10,2,Furniture,Furnishings,Paiement à la livraison
+M-10894,59,25,3,Clothing,Stole,Paiement à la livraison
+M-10895,170,73,2,Electronics,Accessories,Virement bancaire
+M-10896,59,10,2,Clothing,Hankerchief,Paiement à la livraison
+M-10897,24,-21,7,Clothing,Skirt,Paiement à la livraison
+M-10898,105,-26,8,Clothing,Leggings,Carte bancaire
+M-10899,103,46,2,Clothing,Saree,Carte bancaire
+M-10900,171,17,6,Clothing,T-shirt,Virement bancaire
+M-10901,102,13,2,Clothing,Stole,Carte bancaire
+M-10902,98,12,2,Clothing,Hankerchief,Carte bancaire
+M-10903,59,10,4,Clothing,Leggings,Paiement à la livraison
+M-10904,189,60,4,Furniture,Furnishings,Carte de débit
+M-10905,58,-52,3,Furniture,Chairs,Paiement à la livraison
+M-10906,60,3,3,Clothing,Saree,Virement bancaire
+M-10907,58,-8,2,Clothing,Saree,Paiement à la livraison
+M-10908,94,20,2,Furniture,Furnishings,Virement bancaire
+M-10909,193,-166,3,Clothing,Saree,Paiement en plusieurs fois
+M-10910,199,0,4,Clothing,Stole,Paiement en plusieurs fois
+M-10911,202,89,9,Clothing,T-shirt,Paiement en plusieurs fois
+M-10912,58,17,2,Clothing,Hankerchief,Paiement à la livraison
+M-10913,57,-28,2,Clothing,Kurti,Paiement à la livraison
+M-10914,204,-94,4,Clothing,Hankerchief,Paiement en plusieurs fois
+M-10915,98,-12,2,Electronics,Electronic Games,Carte bancaire
+M-10916,22,-12,3,Clothing,Stole,Paiement à la livraison
+M-10917,97,17,2,Clothing,Stole,Carte bancaire
+M-10918,57,24,5,Clothing,Leggings,Paiement à la livraison
+M-10919,97,14,2,Clothing,T-shirt,Carte bancaire
+M-10920,97,17,2,Clothing,Stole,Carte bancaire
+M-10921,96,22,5,Clothing,Stole,Carte bancaire
+M-10922,94,27,2,Clothing,Shirt,Carte bancaire
+M-10923,26,-17,1,Clothing,Stole,Paiement à la livraison
+M-10924,93,44,2,Clothing,Stole,Carte bancaire
+M-10925,93,-65,4,Clothing,Stole,Carte bancaire
+M-10926,92,5,6,Clothing,Hankerchief,Carte bancaire
+M-10927,57,27,2,Clothing,T-shirt,Paiement à la livraison
+M-10928,57,7,3,Furniture,Furnishings,Paiement à la livraison
+M-10929,57,21,4,Clothing,Leggings,Paiement à la livraison
+M-10930,128,4,3,Clothing,Saree,Paiement à la livraison
+M-10931,89,-4,5,Clothing,Saree,Carte bancaire
+M-10932,221,26,7,Furniture,Furnishings,Paiement à la livraison
+M-10933,205,-119,3,Clothing,Saree,Carte de débit
+M-10934,191,51,5,Clothing,Shirt,Virement bancaire
+M-10935,206,18,4,Clothing,Hankerchief,Carte de débit
+M-10936,56,0,4,Clothing,Hankerchief,Paiement à la livraison
+M-10937,88,16,4,Clothing,Stole,Carte bancaire
+M-10938,224,58,3,Electronics,Phones,Virement bancaire
+M-10939,193,8,4,Clothing,T-shirt,Virement bancaire
+M-10940,87,36,5,Clothing,Stole,Carte bancaire
+M-10941,189,4,1,Clothing,Saree,Virement bancaire
+M-10942,55,-33,2,Furniture,Chairs,Paiement à la livraison
+M-10943,85,-1,3,Clothing,Saree,Carte bancaire
+M-10944,252,56,2,Electronics,Phones,Virement bancaire
+M-10945,197,73,1,Furniture,Bookcases,Paiement à la livraison
+M-10946,17,-3,2,Clothing,Stole,Virement bancaire
+M-10947,100,28,2,Clothing,Hankerchief,Virement bancaire
+M-10948,80,-19,5,Clothing,Stole,Virement bancaire
+M-10949,75,29,1,Clothing,Trousers,Virement bancaire
+M-10950,26,4,2,Clothing,Saree,Virement bancaire
+M-10951,55,12,5,Clothing,Skirt,Paiement à la livraison
+M-10952,157,5,9,Clothing,Saree,Virement bancaire
+M-10953,200,-60,4,Furniture,Bookcases,Virement bancaire
+M-10954,230,5,2,Clothing,Saree,Virement bancaire
+M-10955,213,-145,3,Furniture,Bookcases,Carte de débit
+M-10956,55,4,2,Clothing,Stole,Paiement à la livraison
+M-10957,220,-19,2,Clothing,Saree,Carte de débit
+M-10958,150,32,3,Clothing,Hankerchief,Paiement à la livraison
+M-10959,203,84,2,Electronics,Printers,Virement bancaire
+M-10960,93,31,3,Electronics,Accessories,Virement bancaire
+M-10961,290,35,6,Clothing,Hankerchief,Paiement à la livraison
+M-10962,48,6,1,Clothing,Saree,Paiement à la livraison
+M-10963,221,35,4,Electronics,Accessories,Carte de débit
+M-10964,55,18,2,Clothing,Kurti,Paiement à la livraison
+M-10965,227,102,8,Electronics,Accessories,Carte de débit
+M-10966,55,-39,4,Clothing,Stole,Paiement à la livraison
+M-10967,207,33,2,Electronics,Accessories,Virement bancaire
+M-10968,64,6,4,Clothing,Saree,Paiement à la livraison
+M-10969,89,6,5,Clothing,Saree,Paiement à la livraison
+M-10970,54,27,2,Clothing,Stole,Paiement à la livraison
+M-10971,84,41,3,Clothing,T-shirt,Carte bancaire
+M-10972,209,-21,2,Electronics,Electronic Games,Virement bancaire
+M-10973,79,33,4,Clothing,Stole,Virement bancaire
+M-10974,54,8,4,Clothing,T-shirt,Paiement à la livraison
+M-10975,229,59,9,Clothing,Saree,Carte de débit
+M-10976,158,38,3,Clothing,Hankerchief,Virement bancaire
+M-10977,248,105,2,Electronics,Phones,Carte de débit
+M-10978,199,6,2,Clothing,Saree,Virement bancaire
+M-10979,253,-11,1,Clothing,Trousers,Carte de débit
+M-10980,257,-252,4,Clothing,Saree,Carte de débit
+M-10981,193,33,5,Electronics,Accessories,Paiement à la livraison
+M-10982,109,35,6,Clothing,T-shirt,Paiement à la livraison
+M-10983,214,30,3,Electronics,Accessories,Paiement à la livraison
+M-10984,141,7,7,Clothing,Saree,Paiement à la livraison
+M-10985,201,32,4,Furniture,Furnishings,Virement bancaire
+M-10986,54,12,4,Clothing,Shirt,Paiement à la livraison
+M-10987,83,6,6,Clothing,Shirt,Paiement en plusieurs fois
+M-10988,54,-3,3,Clothing,Saree,Paiement à la livraison
+M-10989,53,5,3,Clothing,T-shirt,Paiement à la livraison
+M-10990,258,-27,2,Electronics,Phones,Carte de débit
+M-10991,199,8,2,Clothing,Saree,Paiement à la livraison
+M-10992,82,-27,3,Clothing,Kurti,Paiement en plusieurs fois
+M-10993,139,36,3,Clothing,Stole,Paiement à la livraison
+M-10994,53,15,2,Clothing,Stole,Paiement à la livraison
+M-10995,53,1,4,Clothing,Stole,Paiement à la livraison
+M-10996,101,38,2,Furniture,Furnishings,Paiement à la livraison
+M-10997,262,215,2,Electronics,Printers,Carte de débit
+M-10998,82,-39,5,Clothing,T-shirt,Paiement en plusieurs fois
+M-10999,154,39,3,Clothing,Hankerchief,Paiement à la livraison
+M-11000,52,18,2,Clothing,Stole,Paiement à la livraison
+M-11001,1599,37,6,Electronics,Electronic Games,Virement bancaire
+M-11002,338,41,7,Clothing,Hankerchief,Virement bancaire
+M-11003,51,-49,2,Electronics,Electronic Games,Paiement à la livraison
+M-11004,224,-81,3,Furniture,Chairs,Paiement à la livraison
+M-11005,207,37,4,Clothing,Hankerchief,Paiement à la livraison
+M-11006,51,14,2,Clothing,Stole,Paiement à la livraison
+M-11007,82,8,3,Electronics,Accessories,Paiement en plusieurs fois
+M-11008,50,-17,2,Clothing,Stole,Paiement à la livraison
+M-11009,263,-31,9,Electronics,Electronic Games,Carte de débit
+M-11010,50,7,6,Clothing,Skirt,Paiement à la livraison
+M-11011,245,-3,4,Electronics,Phones,Virement bancaire
+M-11012,82,24,6,Clothing,Hankerchief,Paiement en plusieurs fois
+M-11013,229,-41,8,Electronics,Accessories,Paiement à la livraison
+M-11014,50,14,1,Electronics,Electronic Games,Paiement à la livraison
+M-11015,220,40,2,Electronics,Accessories,Paiement à la livraison
+M-11016,263,-63,2,Electronics,Electronic Games,Carte de débit
+M-11017,81,-41,5,Clothing,Leggings,Paiement en plusieurs fois
+M-11018,50,-17,2,Clothing,Stole,Paiement à la livraison
+M-11019,49,5,4,Clothing,Hankerchief,Paiement à la livraison
+M-11020,237,47,9,Clothing,T-shirt,Virement bancaire
+M-11021,264,-30,3,Furniture,Furnishings,Carte de débit
+M-11022,49,3,1,Clothing,Shirt,Paiement à la livraison
+M-11023,63,-24,6,Clothing,Kurti,Paiement à la livraison
+M-11024,81,-51,7,Clothing,Stole,Paiement en plusieurs fois
+M-11025,264,71,10,Furniture,Furnishings,Carte de débit
+M-11026,48,11,2,Clothing,Shirt,Paiement à la livraison
+M-11027,48,15,1,Clothing,Hankerchief,Paiement à la livraison
+M-11028,245,-78,2,Electronics,Printers,Virement bancaire
+M-11029,146,42,5,Clothing,Hankerchief,Virement bancaire
+M-11030,245,10,2,Furniture,Bookcases,Paiement à la livraison
+M-11031,245,91,2,Furniture,Bookcases,Virement bancaire
+M-11032,80,3,3,Clothing,Stole,Paiement en plusieurs fois
+M-11033,269,33,5,Furniture,Chairs,Carte de débit
+M-11034,80,22,3,Clothing,Stole,Paiement en plusieurs fois
+M-11035,284,44,6,Clothing,Hankerchief,Paiement à la livraison
+M-11036,313,44,3,Electronics,Electronic Games,Paiement à la livraison
+M-11037,80,-26,9,Clothing,Skirt,Paiement en plusieurs fois
+M-11038,48,-8,8,Clothing,Stole,Paiement à la livraison
+M-11039,87,16,2,Clothing,Saree,Virement bancaire
+M-11040,47,-114,5,Furniture,Furnishings,Paiement à la livraison
+M-11041,140,28,2,Electronics,Phones,Paiement à la livraison
+M-11042,47,1,2,Clothing,Stole,Paiement à la livraison
+M-11043,79,-2,2,Furniture,Furnishings,Paiement en plusieurs fois
+M-11044,78,-64,7,Clothing,Stole,Paiement en plusieurs fois
+M-11045,47,-3,2,Clothing,Stole,Paiement à la livraison
+M-11046,185,48,4,Clothing,Stole,Virement bancaire
+M-11047,77,36,2,Clothing,Shirt,Paiement en plusieurs fois
+M-11048,259,47,5,Clothing,Hankerchief,Virement bancaire
+M-11049,75,0,7,Clothing,Saree,Paiement en plusieurs fois
+M-11050,75,0,3,Clothing,Shirt,Paiement en plusieurs fois
+M-11051,46,0,4,Clothing,Leggings,Paiement à la livraison
+M-11052,46,13,3,Clothing,Hankerchief,Paiement à la livraison
+M-11053,200,13,5,Electronics,Phones,Paiement à la livraison
+M-11054,46,-14,1,Electronics,Phones,Paiement à la livraison
+M-11055,126,52,4,Clothing,Hankerchief,Virement bancaire
+M-11056,74,29,3,Clothing,Stole,Paiement en plusieurs fois
+M-11057,45,13,4,Clothing,Skirt,Paiement à la livraison
+M-11058,74,9,3,Clothing,Shirt,Virement bancaire
+M-11059,129,11,2,Electronics,Phones,Virement bancaire
+M-11060,122,50,7,Clothing,Stole,Virement bancaire
+M-11061,74,-51,3,Clothing,Stole,Virement bancaire
+M-11062,278,39,5,Furniture,Chairs,Carte de débit
+M-11063,282,14,4,Clothing,Trousers,Carte de débit
+M-11064,45,0,2,Clothing,T-shirt,Paiement à la livraison
+M-11065,45,6,3,Clothing,Shirt,Paiement à la livraison
+M-11066,45,16,3,Clothing,Stole,Paiement à la livraison
+M-11067,73,-36,3,Furniture,Chairs,Virement bancaire
+M-11068,45,12,4,Clothing,Hankerchief,Paiement à la livraison
+M-11069,72,-6,3,Clothing,Saree,Virement bancaire
+M-11070,71,-44,5,Electronics,Accessories,Virement bancaire
+M-11071,45,-2,4,Clothing,Shirt,Paiement à la livraison
+M-11072,286,140,6,Clothing,Shirt,Carte de débit
+M-11073,294,138,2,Electronics,Printers,Carte de débit
+M-11074,223,4,3,Electronics,Phones,Paiement à la livraison
+M-11075,20,-2,1,Electronics,Accessories,Virement bancaire
+M-11076,302,75,6,Furniture,Furnishings,Carte de débit
+M-11077,113,28,2,Clothing,Saree,Virement bancaire
+M-11078,44,2,3,Clothing,Hankerchief,Paiement à la livraison
+M-11079,305,-270,5,Electronics,Electronic Games,Carte de débit
+M-11080,306,-147,3,Clothing,Saree,Carte de débit
+M-11081,70,-64,5,Clothing,Stole,Virement bancaire
+M-11082,44,11,4,Clothing,Stole,Paiement à la livraison
+M-11083,44,14,3,Clothing,Hankerchief,Paiement à la livraison
+M-11084,319,312,5,Clothing,Saree,Carte de débit
+M-11085,287,-280,12,Furniture,Chairs,Virement bancaire
+M-11086,44,10,3,Clothing,Stole,Paiement à la livraison
+M-11087,288,-180,4,Furniture,Chairs,Paiement à la livraison
+M-11088,49,-31,2,Clothing,Stole,Paiement à la livraison
+M-11089,43,-10,4,Clothing,Skirt,Paiement à la livraison
+M-11090,43,5,3,Clothing,Stole,Paiement à la livraison
+M-11091,68,-27,3,Electronics,Accessories,Virement bancaire
+M-11092,320,144,1,Electronics,Printers,Carte de débit
+M-11093,67,2,4,Clothing,T-shirt,Virement bancaire
+M-11094,66,-12,5,Clothing,Stole,Virement bancaire
+M-11095,321,26,3,Electronics,Printers,Carte de débit
+M-11096,43,-5,2,Clothing,Saree,Paiement à la livraison
+M-11097,114,-39,5,Clothing,Kurti,Paiement à la livraison
+M-11098,43,17,1,Clothing,Saree,Paiement à la livraison
+M-11099,43,21,3,Clothing,Shirt,Paiement à la livraison
+M-11100,637,50,5,Clothing,Saree,Paiement à la livraison
+M-11101,300,42,2,Electronics,Printers,Paiement à la livraison
+M-11102,341,44,7,Furniture,Furnishings,Virement bancaire
+M-11103,102,0,3,Electronics,Phones,Paiement à la livraison
+M-11104,328,-15,3,Electronics,Electronic Games,Carte de débit
+M-11105,341,160,7,Clothing,Stole,Carte de débit
+M-11106,62,11,7,Clothing,Hankerchief,Virement bancaire
+M-11107,42,13,3,Clothing,Leggings,Paiement à la livraison
+M-11108,62,28,5,Clothing,Hankerchief,Virement bancaire
+M-11109,42,7,2,Clothing,Kurti,Paiement à la livraison
+M-11110,42,-3,1,Electronics,Electronic Games,Paiement à la livraison
+M-11111,313,-13,5,Furniture,Bookcases,Virement bancaire
+M-11112,109,52,2,Clothing,Stole,Virement bancaire
+M-11113,226,58,3,Electronics,Accessories,Paiement à la livraison
+M-11114,62,-1,1,Electronics,Phones,Virement bancaire
+M-11115,61,-25,4,Electronics,Accessories,Virement bancaire
+M-11116,222,74,5,Clothing,Hankerchief,Paiement à la livraison
+M-11117,342,-154,7,Furniture,Furnishings,Carte de débit
+M-11118,344,-34,3,Clothing,Saree,Carte de débit
+M-11119,345,38,7,Clothing,Hankerchief,Carte de débit
+M-11120,46,0,2,Electronics,Electronic Games,Paiement à la livraison
+M-11121,255,74,5,Clothing,Hankerchief,Paiement à la livraison
+M-11122,360,32,3,Clothing,Saree,Virement bancaire
+M-11123,372,59,3,Electronics,Printers,Virement bancaire
+M-11124,61,30,2,Clothing,Hankerchief,Virement bancaire
+M-11125,42,12,5,Clothing,Hankerchief,Paiement à la livraison
+M-11126,42,-26,2,Clothing,Kurti,Paiement à la livraison
+M-11127,61,25,4,Clothing,Saree,Virement bancaire
+M-11128,41,11,6,Clothing,Hankerchief,Paiement à la livraison
+M-11129,40,13,3,Clothing,T-shirt,Paiement à la livraison
+M-11130,59,21,2,Clothing,Stole,Virement bancaire
+M-11131,57,27,2,Clothing,Shirt,Virement bancaire
+M-11132,17,6,1,Clothing,Stole,Virement bancaire
+M-11133,40,10,2,Clothing,Stole,Paiement à la livraison
+M-11134,349,-24,2,Clothing,Saree,Carte de débit
+M-11135,335,-22,7,Furniture,Chairs,Virement bancaire
+M-11136,40,16,3,Clothing,Hankerchief,Paiement à la livraison
+M-11137,40,17,2,Clothing,Stole,Paiement à la livraison
+M-11138,40,-7,3,Clothing,Stole,Paiement à la livraison
+M-11139,352,74,8,Clothing,Stole,Carte de débit
+M-11140,55,-26,4,Clothing,Saree,Virement bancaire
+M-11141,352,18,5,Clothing,Trousers,Carte de débit
+M-11142,53,-18,4,Clothing,T-shirt,Virement bancaire
+M-11143,51,7,2,Furniture,Furnishings,Virement bancaire
+M-11144,40,-37,3,Clothing,Stole,Paiement à la livraison
+M-11145,39,14,5,Clothing,Leggings,Paiement à la livraison
+M-11146,355,-4,2,Clothing,Saree,Carte de débit
+M-11147,357,139,2,Clothing,Saree,Carte de débit
+M-11148,38,18,1,Clothing,Kurti,Paiement à la livraison
+M-11149,38,9,2,Clothing,Stole,Paiement à la livraison
+M-11150,141,10,4,Clothing,Shirt,Virement bancaire
+M-11151,36,4,9,Clothing,Hankerchief,Paiement à la livraison
+M-11152,351,-94,5,Electronics,Electronic Games,Paiement à la livraison
+M-11153,369,15,3,Electronics,Electronic Games,Carte de débit
+M-11154,53,24,6,Clothing,Hankerchief,Paiement en plusieurs fois
+M-11155,371,115,1,Furniture,Bookcases,Carte de débit
+M-11156,499,33,4,Clothing,Saree,Paiement à la livraison
+M-11157,223,62,7,Clothing,Shirt,Paiement à la livraison
+M-11158,50,-4,6,Clothing,T-shirt,Paiement en plusieurs fois
+M-11159,391,90,6,Electronics,Phones,Carte de débit
+M-11160,416,137,3,Electronics,Phones,Carte de débit
+M-11161,424,-17,9,Furniture,Chairs,Carte de débit
+M-11162,362,127,1,Furniture,Bookcases,Paiement à la livraison
+M-11163,36,-7,1,Electronics,Electronic Games,Paiement à la livraison
+M-11164,34,-10,3,Clothing,Skirt,Paiement à la livraison
+M-11165,367,73,3,Electronics,Electronic Games,Virement bancaire
+M-11166,425,208,7,Clothing,Saree,Carte de débit
+M-11167,433,26,3,Electronics,Printers,Carte de débit
+M-11168,460,31,3,Furniture,Bookcases,Carte de débit
+M-11169,62,-56,5,Clothing,Kurti,Paiement à la livraison
+M-11170,50,16,1,Clothing,Stole,Paiement en plusieurs fois
+M-11171,460,-143,3,Furniture,Chairs,Carte de débit
+M-11172,34,3,3,Clothing,Saree,Paiement à la livraison
+M-11173,227,59,2,Furniture,Furnishings,Virement bancaire
+M-11174,469,33,4,Electronics,Electronic Games,Carte de débit
+M-11175,103,46,2,Clothing,Saree,Virement bancaire
+M-11176,34,-13,5,Clothing,Leggings,Paiement à la livraison
+M-11177,137,63,3,Clothing,Stole,Paiement à la livraison
+M-11178,34,12,2,Clothing,Stole,Paiement à la livraison
+M-11179,474,56,4,Electronics,Phones,Carte de débit
+M-11180,50,3,2,Clothing,Stole,Paiement en plusieurs fois
+M-11181,69,-67,4,Clothing,Kurti,Virement bancaire
+M-11182,389,-83,3,Furniture,Chairs,Virement bancaire
+M-11183,77,-43,8,Clothing,Stole,Paiement à la livraison
+M-11184,51,21,3,Clothing,T-shirt,Paiement à la livraison
+M-11185,394,146,2,Furniture,Bookcases,Virement bancaire
+M-11186,48,-22,2,Clothing,Saree,Paiement en plusieurs fois
+M-11187,34,-12,5,Clothing,Leggings,Paiement à la livraison
+M-11188,484,28,3,Electronics,Printers,Carte de débit
+M-11189,47,-27,4,Clothing,Saree,Paiement en plusieurs fois
+M-11190,45,8,4,Clothing,Skirt,Paiement en plusieurs fois
+M-11191,128,55,1,Clothing,Saree,Paiement à la livraison
+M-11192,669,74,5,Furniture,Bookcases,Paiement à la livraison
+M-11193,34,13,2,Clothing,Saree,Paiement à la livraison
+M-11194,44,14,3,Clothing,Hankerchief,Carte bancaire
+M-11195,33,1,2,Clothing,Shirt,Paiement à la livraison
+M-11196,33,10,3,Clothing,Hankerchief,Paiement à la livraison
+M-11197,487,-23,3,Electronics,Printers,Carte de débit
+M-11198,497,179,3,Furniture,Chairs,Carte de débit
+M-11199,508,203,2,Electronics,Accessories,Carte de débit
+M-11200,524,-25,2,Electronics,Electronic Games,Carte de débit
+M-11201,425,183,5,Electronics,Accessories,Virement bancaire
+M-11202,168,56,3,Clothing,Saree,Paiement à la livraison
+M-11203,141,28,7,Furniture,Furnishings,Virement bancaire
+M-11204,429,17,3,Furniture,Chairs,Virement bancaire
+M-11205,44,-8,3,Clothing,Stole,Carte bancaire
+M-11206,149,136,3,Clothing,Stole,Virement bancaire
+M-11207,44,-34,3,Clothing,Stole,Carte bancaire
+M-11208,33,10,3,Clothing,Hankerchief,Paiement à la livraison
+M-11209,33,9,2,Clothing,Hankerchief,Paiement à la livraison
+M-11210,442,31,2,Electronics,Electronic Games,Virement bancaire
+M-11211,41,6,5,Clothing,Skirt,Carte bancaire
+M-11212,33,-12,5,Clothing,Hankerchief,Paiement à la livraison
+M-11213,32,3,8,Clothing,Hankerchief,Paiement à la livraison
+M-11214,32,6,3,Clothing,Shirt,Paiement à la livraison
+M-11215,179,77,1,Clothing,Saree,Virement bancaire
+M-11216,31,10,1,Clothing,Kurti,Paiement à la livraison
+M-11217,140,68,5,Clothing,T-shirt,Paiement à la livraison
+M-11218,529,137,3,Electronics,Phones,Carte de débit
+M-11219,534,0,3,Clothing,Saree,Carte de débit
+M-11220,41,-6,1,Furniture,Chairs,Carte bancaire
+M-11221,379,63,2,Clothing,Saree,Paiement à la livraison
+M-11222,81,-44,3,Clothing,Stole,Paiement à la livraison
+M-11223,40,-33,5,Clothing,Hankerchief,Carte bancaire
+M-11224,40,18,1,Electronics,Accessories,Carte bancaire
+M-11225,534,0,3,Clothing,Saree,Carte de débit
+M-11226,31,9,2,Clothing,Hankerchief,Paiement à la livraison
+M-11227,473,-113,9,Clothing,Hankerchief,Virement bancaire
+M-11228,31,-10,3,Clothing,Skirt,Paiement à la livraison
+M-11229,31,-3,4,Clothing,Saree,Paiement à la livraison
+M-11230,91,15,6,Clothing,T-shirt,Virement bancaire
+M-11231,30,-25,2,Clothing,T-shirt,Paiement à la livraison
+M-11232,30,6,1,Clothing,T-shirt,Paiement à la livraison
+M-11233,40,0,3,Clothing,Saree,Carte bancaire
+M-11234,534,5,2,Electronics,Electronic Games,Carte de débit
+M-11235,539,-146,7,Furniture,Furnishings,Carte de débit
+M-11236,490,-128,8,Furniture,Bookcases,Virement bancaire
+M-11237,163,81,2,Electronics,Accessories,Paiement à la livraison
+M-11238,184,85,6,Clothing,T-shirt,Virement bancaire
+M-11239,494,54,4,Furniture,Bookcases,Paiement à la livraison
+M-11240,30,11,5,Clothing,Hankerchief,Paiement à la livraison
+M-11241,30,0,1,Clothing,Kurti,Paiement à la livraison
+M-11242,39,-18,2,Clothing,Leggings,Carte bancaire
+M-11243,1700,85,3,Clothing,Trousers,Paiement à la livraison
+M-11244,332,-43,6,Electronics,Phones,Virement bancaire
+M-11245,436,131,9,Clothing,Hankerchief,Virement bancaire
+M-11246,30,-5,2,Furniture,Furnishings,Paiement à la livraison
+M-11247,30,-10,2,Clothing,Stole,Paiement à la livraison
+M-11248,38,-13,3,Clothing,Stole,Carte bancaire
+M-11249,511,194,3,Furniture,Chairs,Virement bancaire
+M-11250,37,-53,3,Clothing,Saree,Carte bancaire
+M-11251,513,215,2,Electronics,Accessories,Paiement à la livraison
+M-11252,516,69,4,Furniture,Bookcases,Virement bancaire
+M-11253,559,-19,2,Clothing,Trousers,Carte de débit
+M-11254,29,-10,3,Clothing,Skirt,Paiement à la livraison
+M-11255,148,52,5,Clothing,Stole,Virement bancaire
+M-11256,559,-174,2,Electronics,Electronic Games,Carte de débit
+M-11257,527,26,3,Electronics,Electronic Games,Paiement à la livraison
+M-11258,560,44,3,Clothing,Saree,Carte de débit
+M-11259,571,108,12,Clothing,Stole,Carte de débit
+M-11260,29,2,3,Clothing,Skirt,Paiement à la livraison
+M-11261,29,3,2,Clothing,Stole,Paiement à la livraison
+M-11262,29,-3,3,Clothing,Saree,Paiement à la livraison
+M-11263,35,14,2,Clothing,Stole,Carte bancaire
+M-11264,579,139,3,Electronics,Printers,Carte de débit
+M-11265,29,-24,4,Clothing,Leggings,Paiement à la livraison
+M-11266,593,213,4,Furniture,Bookcases,Carte de débit
+M-11267,217,72,2,Furniture,Furnishings,Paiement à la livraison
+M-11268,353,90,8,Clothing,Saree,Paiement à la livraison
+M-11269,382,92,2,Electronics,Printers,Paiement à la livraison
+M-11270,597,93,4,Furniture,Chairs,Carte de débit
+M-11271,212,97,7,Clothing,Hankerchief,Paiement à la livraison
+M-11272,689,90,5,Clothing,Saree,Paiement à la livraison
+M-11273,28,-10,3,Clothing,Skirt,Paiement à la livraison
+M-11274,34,12,3,Clothing,Hankerchief,Carte bancaire
+M-11275,600,-102,5,Electronics,Electronic Games,Carte de débit
+M-11276,637,113,5,Clothing,Saree,Virement bancaire
+M-11277,616,-69,7,Furniture,Furnishings,Carte de débit
+M-11278,624,37,2,Electronics,Electronic Games,Carte de débit
+M-11279,28,4,1,Clothing,T-shirt,Paiement à la livraison
+M-11280,584,-444,7,Electronics,Printers,Virement bancaire
+M-11281,28,6,4,Clothing,Skirt,Paiement à la livraison
+M-11282,33,-1,1,Clothing,Saree,Carte bancaire
+M-11283,27,-20,2,Clothing,Hankerchief,Paiement à la livraison
+M-11284,27,5,2,Clothing,Skirt,Paiement à la livraison
+M-11285,27,4,3,Clothing,Skirt,Paiement à la livraison
+M-11286,635,-349,5,Clothing,Saree,Carte de débit
+M-11287,598,166,4,Furniture,Bookcases,Virement bancaire
+M-11288,636,-204,2,Electronics,Printers,Carte de débit
+M-11289,27,9,2,Clothing,Hankerchief,Paiement à la livraison
+M-11290,27,-6,4,Clothing,Hankerchief,Paiement à la livraison
+M-11291,637,212,8,Electronics,Phones,Carte de débit
+M-11292,290,110,9,Clothing,Stole,Virement bancaire
+M-11293,27,-25,2,Clothing,Stole,Paiement à la livraison
+M-11294,632,-114,4,Furniture,Tables,Virement bancaire
+M-11295,643,-45,2,Electronics,Printers,Carte de débit
+M-11296,652,13,6,Furniture,Furnishings,Carte de débit
+M-11297,33,-27,1,Furniture,Chairs,Carte bancaire
+M-11298,26,2,2,Clothing,Hankerchief,Paiement à la livraison
+M-11299,633,-633,11,Electronics,Accessories,Virement bancaire
+M-11300,26,9,2,Clothing,Leggings,Paiement à la livraison
+M-11301,191,93,4,Clothing,Shirt,Virement bancaire
+M-11302,887,80,3,Electronics,Printers,Virement bancaire
+M-11303,637,261,2,Electronics,Printers,Paiement à la livraison
+M-11304,670,15,5,Furniture,Bookcases,Carte de débit
+M-11305,26,7,4,Clothing,Hankerchief,Paiement à la livraison
+M-11306,676,195,5,Furniture,Bookcases,Carte de débit
+M-11307,26,12,3,Clothing,Hankerchief,Paiement à la livraison
+M-11308,26,-24,1,Clothing,Stole,Paiement à la livraison
+M-11309,25,7,2,Clothing,Stole,Paiement à la livraison
+M-11310,24,-30,1,Furniture,Chairs,Paiement à la livraison
+M-11311,32,-12,1,Furniture,Chairs,Carte bancaire
+M-11312,31,-2,2,Clothing,Saree,Carte bancaire
+M-11313,651,169,5,Electronics,Printers,Paiement à la livraison
+M-11314,326,107,3,Furniture,Furnishings,Virement bancaire
+M-11315,30,-6,2,Clothing,Hankerchief,Virement bancaire
+M-11316,30,5,2,Clothing,Kurti,Virement bancaire
+M-11317,662,240,2,Furniture,Bookcases,Paiement à la livraison
+M-11318,30,-23,2,Clothing,Saree,Virement bancaire
+M-11319,29,9,3,Clothing,Saree,Virement bancaire
+M-11320,28,1,1,Electronics,Accessories,Virement bancaire
+M-11321,28,-3,2,Clothing,Saree,Virement bancaire
+M-11322,24,2,4,Clothing,Hankerchief,Paiement à la livraison
+M-11323,28,-26,2,Clothing,Stole,Virement bancaire
+M-11324,27,5,1,Clothing,Stole,Virement bancaire
+M-11325,27,-15,1,Clothing,Stole,Virement bancaire
+M-11326,24,11,3,Clothing,Hankerchief,Paiement à la livraison
+M-11327,23,-6,4,Clothing,Hankerchief,Paiement à la livraison
+M-11328,322,193,5,Electronics,Printers,Paiement à la livraison
+M-11329,688,-103,6,Electronics,Accessories,Carte de débit
+M-11330,23,-3,1,Clothing,Shirt,Paiement à la livraison
+M-11331,26,3,3,Clothing,Skirt,Virement bancaire
+M-11332,68,-56,2,Electronics,Phones,Paiement à la livraison
+M-11333,462,169,4,Clothing,Saree,Paiement à la livraison
+M-11334,941,203,3,Furniture,Tables,Virement bancaire
+M-11335,23,4,2,Clothing,Skirt,Paiement à la livraison
+M-11336,720,43,2,Electronics,Printers,Virement bancaire
+M-11337,724,-447,4,Electronics,Electronic Games,Virement bancaire
+M-11338,724,253,2,Furniture,Bookcases,Virement bancaire
+M-11339,26,10,4,Clothing,Hankerchief,Virement bancaire
+M-11340,22,-2,3,Clothing,Hankerchief,Paiement à la livraison
+M-11341,711,-8,4,Clothing,Saree,Carte de débit
+M-11342,107,31,5,Clothing,T-shirt,Paiement à la livraison
+M-11343,765,-153,2,Electronics,Phones,Carte de débit
+M-11344,22,8,2,Clothing,Leggings,Paiement à la livraison
+M-11345,26,-5,2,Clothing,Stole,Virement bancaire
+M-11346,22,8,3,Clothing,Hankerchief,Paiement à la livraison
+M-11347,743,89,5,Electronics,Printers,Virement bancaire
+M-11348,22,-15,4,Clothing,Kurti,Paiement à la livraison
+M-11349,781,594,6,Electronics,Printers,Carte de débit
+M-11350,25,-2,5,Clothing,Hankerchief,Virement bancaire
+M-11351,25,2,2,Clothing,Hankerchief,Virement bancaire
+M-11352,119,43,5,Clothing,T-shirt,Paiement à la livraison
+M-11353,785,52,2,Electronics,Phones,Carte de débit
+M-11354,183,-66,5,Electronics,Phones,Virement bancaire
+M-11355,22,4,1,Clothing,Stole,Paiement à la livraison
+M-11356,642,180,5,Clothing,Saree,Paiement à la livraison
+M-11357,767,-353,5,Clothing,Trousers,Paiement à la livraison
+M-11358,770,323,3,Electronics,Accessories,Paiement à la livraison
+M-11359,21,-17,3,Clothing,Shirt,Paiement à la livraison
+M-11360,21,-6,3,Clothing,Leggings,Paiement à la livraison
+M-11361,492,187,2,Electronics,Accessories,Virement bancaire
+M-11362,816,-96,3,Electronics,Printers,Carte de débit
+M-11363,25,2,3,Clothing,Kurti,Carte bancaire
+M-11364,802,120,7,Electronics,Accessories,Paiement à la livraison
+M-11365,811,154,7,Electronics,Accessories,Virement bancaire
+M-11366,835,267,5,Electronics,Phones,Carte de débit
+M-11367,21,-5,1,Electronics,Accessories,Paiement à la livraison
+M-11368,450,-190,4,Furniture,Bookcases,Paiement à la livraison
+M-11369,24,-1,4,Clothing,Skirt,Carte bancaire
+M-11370,832,0,3,Clothing,Trousers,Virement bancaire
+M-11371,833,93,3,Clothing,Trousers,Virement bancaire
+M-11372,20,6,1,Clothing,T-shirt,Paiement à la livraison
+M-11373,23,-5,7,Clothing,Hankerchief,Carte bancaire
+M-11374,550,-242,5,Furniture,Furnishings,Virement bancaire
+M-11375,148,-91,2,Electronics,Phones,Paiement à la livraison
+M-11376,846,9,2,Furniture,Chairs,Carte de débit
+M-11377,856,385,6,Electronics,Printers,Paiement à la livraison
+M-11378,871,131,2,Furniture,Bookcases,Virement bancaire
+M-11379,19,-18,4,Clothing,Kurti,Paiement à la livraison
+M-11380,610,-66,2,Furniture,Tables,Paiement à la livraison
+M-11381,880,97,8,Furniture,Furnishings,Carte de débit
+M-11382,22,-8,4,Clothing,Hankerchief,Carte bancaire
+M-11383,22,11,2,Clothing,Skirt,Carte bancaire
+M-11384,21,4,3,Clothing,Hankerchief,Carte bancaire
+M-11385,18,1,3,Clothing,Hankerchief,Paiement à la livraison
+M-11386,911,202,7,Furniture,Chairs,Paiement à la livraison
+M-11387,18,2,3,Clothing,Hankerchief,Paiement à la livraison
+M-11388,911,355,5,Electronics,Phones,Carte de débit
+M-11389,143,-129,2,Electronics,Phones,Paiement à la livraison
+M-11390,918,22,9,Electronics,Electronic Games,Paiement à la livraison
+M-11391,925,-447,5,Electronics,Electronic Games,Paiement à la livraison
+M-11392,17,8,2,Clothing,Skirt,Paiement à la livraison
+M-11393,465,207,9,Clothing,Saree,Paiement à la livraison
+M-11394,17,-9,3,Clothing,Stole,Paiement à la livraison
+M-11395,935,114,4,Electronics,Electronic Games,Virement bancaire
+M-11396,16,-10,2,Clothing,T-shirt,Paiement à la livraison
+M-11397,954,95,3,Electronics,Printers,Virement bancaire
+M-11398,915,-99,3,Furniture,Tables,Carte de débit
+M-11399,955,305,3,Electronics,Printers,Carte de débit
+M-11400,976,293,4,Electronics,Accessories,Paiement à la livraison
+M-11401,1069,0,6,Clothing,Saree,Paiement en plusieurs fois
+M-11402,19,-15,3,Clothing,Hankerchief,Carte bancaire
+M-11403,16,6,3,Clothing,Hankerchief,Paiement à la livraison
+M-11404,1030,206,8,Electronics,Printers,Virement bancaire
+M-11405,620,82,6,Electronics,Accessories,Paiement à la livraison
+M-11406,16,8,2,Clothing,Hankerchief,Paiement à la livraison
+M-11407,19,8,2,Clothing,Hankerchief,Carte bancaire
+M-11408,249,-130,4,Electronics,Phones,Virement bancaire
+M-11409,16,6,1,Clothing,Stole,Paiement à la livraison
+M-11410,1361,197,9,Furniture,Bookcases,Paiement à la livraison
+M-11411,15,1,1,Clothing,Shirt,Paiement à la livraison
+M-11412,1076,-38,4,Electronics,Printers,Paiement à la livraison
+M-11413,18,2,3,Clothing,Hankerchief,Carte bancaire
+M-11414,1101,352,3,Furniture,Bookcases,Virement bancaire
+M-11415,15,2,1,Clothing,Leggings,Paiement à la livraison
+M-11416,1104,209,4,Clothing,Trousers,Virement bancaire
+M-11417,14,2,1,Clothing,Hankerchief,Paiement à la livraison
+M-11418,14,5,1,Clothing,Hankerchief,Paiement à la livraison
+M-11419,14,-3,2,Clothing,Leggings,Paiement à la livraison
+M-11420,14,-1,4,Clothing,Kurti,Paiement à la livraison
+M-11421,13,-8,1,Clothing,T-shirt,Paiement à la livraison
+M-11422,13,-1,3,Clothing,Hankerchief,Paiement à la livraison
+M-11423,1275,1148,7,Furniture,Bookcases,Paiement en plusieurs fois
+M-11424,17,1,2,Clothing,Skirt,Carte bancaire
+M-11425,13,0,2,Clothing,Hankerchief,Paiement à la livraison
+M-11426,1270,546,11,Electronics,Electronic Games,Paiement en plusieurs fois
+M-11427,13,-2,1,Clothing,Stole,Paiement à la livraison
+M-11428,13,3,1,Clothing,Leggings,Paiement à la livraison
+M-11429,17,5,1,Clothing,Hankerchief,Virement bancaire
+M-11430,13,-13,2,Clothing,Skirt,Paiement à la livraison
+M-11431,13,-9,2,Clothing,Skirt,Paiement à la livraison
+M-11432,1263,-56,5,Clothing,Trousers,Paiement en plusieurs fois
+M-11433,1629,-153,3,Electronics,Phones,Paiement à la livraison
+M-11434,17,7,3,Clothing,Hankerchief,Virement bancaire
+M-11435,17,2,2,Clothing,Skirt,Virement bancaire
+M-11436,1250,-12,2,Electronics,Printers,Paiement en plusieurs fois
+M-11437,17,-11,3,Clothing,Skirt,Virement bancaire
+M-11438,977,-244,7,Electronics,Phones,Paiement à la livraison
+M-11439,1246,62,3,Furniture,Bookcases,Paiement en plusieurs fois
+M-11440,12,1,2,Clothing,Hankerchief,Paiement à la livraison
+M-11441,11,-4,2,Clothing,Skirt,Paiement à la livraison
+M-11442,1327,318,8,Furniture,Chairs,Paiement en plusieurs fois
+M-11443,1319,567,5,Electronics,Printers,Paiement à la livraison
+M-11444,1402,109,11,Clothing,Saree,Paiement en plusieurs fois
+M-11445,1514,742,4,Electronics,Printers,Paiement en plusieurs fois
+M-11446,1351,111,6,Electronics,Electronic Games,Paiement à la livraison
+M-11447,1355,-60,5,Clothing,Trousers,Paiement à la livraison
+M-11448,10,2,2,Clothing,Hankerchief,Paiement à la livraison
+M-11449,10,-2,2,Clothing,Leggings,Paiement à la livraison
+M-11450,1582,-443,6,Clothing,Trousers,Paiement en plusieurs fois
+M-11451,1218,352,9,Furniture,Bookcases,Paiement en plusieurs fois
+M-11452,321,315,5,Clothing,Saree,Virement bancaire
+M-11453,736,346,5,Electronics,Printers,Paiement à la livraison
+M-11454,1218,-420,8,Furniture,Bookcases,Paiement à la livraison
+M-11455,1027,441,8,Clothing,Saree,Paiement à la livraison
+M-11456,10,5,1,Clothing,Stole,Paiement à la livraison
+M-11457,2366,552,5,Clothing,Trousers,Virement bancaire
+M-11458,9,-6,2,Clothing,Hankerchief,Paiement à la livraison
+M-11459,16,-12,2,Clothing,Stole,Virement bancaire
+M-11460,9,3,1,Clothing,Skirt,Paiement à la livraison
+M-11461,1560,421,3,Clothing,Trousers,Paiement à la livraison
+M-11462,1137,568,2,Clothing,Trousers,Paiement en plusieurs fois
+M-11463,9,-9,2,Clothing,Kurti,Paiement à la livraison
+M-11464,15,-7,1,Clothing,Hankerchief,Virement bancaire
+M-11465,14,5,1,Clothing,Hankerchief,Virement bancaire
+M-11466,14,7,2,Clothing,Hankerchief,Virement bancaire
+M-11467,8,-2,2,Clothing,Hankerchief,Paiement à la livraison
+M-11468,1389,680,7,Clothing,Saree,Paiement à la livraison
+M-11469,8,-1,2,Clothing,Leggings,Paiement à la livraison
+M-11470,8,-2,1,Clothing,Stole,Paiement à la livraison
+M-11471,13,4,1,Clothing,Leggings,Virement bancaire
+M-11472,8,-6,1,Clothing,Stole,Paiement à la livraison
+M-11473,12,2,2,Clothing,Skirt,Carte bancaire
+M-11474,1716,309,7,Electronics,Accessories,Paiement à la livraison
+M-11475,1117,447,10,Furniture,Bookcases,Paiement en plusieurs fois
+M-11476,9,-6,2,Clothing,Skirt,Carte bancaire
+M-11477,332,503,3,Electronics,Printers,Paiement à la livraison
+M-11478,7,-4,3,Clothing,Hankerchief,Paiement à la livraison
+M-11479,8,-2,3,Clothing,Hankerchief,Carte bancaire
+M-11480,2061,701,5,Furniture,Bookcases,Virement bancaire
+M-11481,1103,276,3,Furniture,Chairs,Paiement en plusieurs fois
+M-11482,2103,322,8,Electronics,Electronic Games,Virement bancaire
+M-11483,2115,23,5,Furniture,Chairs,Paiement à la livraison
+M-11484,850,-289,5,Electronics,Electronic Games,Paiement à la livraison
+M-11485,1063,64,7,Electronics,Phones,Paiement en plusieurs fois
+M-11486,1063,-175,4,Electronics,Electronic Games,Paiement en plusieurs fois
+M-11487,2292,127,7,Furniture,Bookcases,Paiement à la livraison
+M-11488,7,-1,2,Clothing,Hankerchief,Carte bancaire
+M-11489,2452,191,7,Furniture,Bookcases,Virement bancaire
+M-11490,2457,665,11,Electronics,Electronic Games,Paiement en plusieurs fois
+M-11491,4,-3,1,Clothing,Skirt,Carte bancaire
+M-11492,2830,-1981,13,Furniture,Bookcases,Paiement en plusieurs fois
+M-11493,7,1,1,Clothing,Hankerchief,Paiement à la livraison
+M-11494,7,0,2,Clothing,Skirt,Paiement à la livraison
+M-11495,7,-3,2,Clothing,Hankerchief,Paiement à la livraison
+M-11496,3151,-35,7,Clothing,Trousers,Paiement en plusieurs fois
+M-11497,4141,1698,13,Electronics,Printers,Paiement à la livraison
+M-11498,7,-2,1,Clothing,Hankerchief,Paiement à la livraison
+M-11499,4363,305,5,Furniture,Tables,Paiement en plusieurs fois
